@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LOAN one-word domains still available to buy.
 
-This dataset contains 9,788 .LOAN one word domains with availability, attractiveness and demand scores.
+This dataset contains 9,789 .LOAN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LOAN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=loan-oneword-domains&utm_content=description.top) (9,787) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -48,7 +48,7 @@ If you want to search & filters the complete database of [.LOAN one word domains
 | abiding.loan    | available | 106      | 5%     | 7      |                      |                  |                  |
 | abient.loan     | available | 54       | 1%     | 6      |                      |                  |                  |
 | ability.loan    | available | 92       | 15%    | 7      |                      |                  |                  |
-| abit.loan       | available | 66       | 12%    | 5      |                      |                  |                  |
+| abit.loan       | available | 68       | 12%    | 5      |                      |                  |                  |
 | abject.loan     | available | 94       | 8%     | 6      |                      |                  |                  |
 | abkhas.loan     | available | 68       | 1%     | 6      |                      |                  |                  |
 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.LOAN one word domains
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
