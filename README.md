@@ -1,10 +1,10 @@
-# Available .LOAN One-Word Domains (12,258)
+# Available .LOAN One-Word Domains (12,769)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C258%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C769%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .loan one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,258 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,769 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,258 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,769 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/loan`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | IsleofMan.loan   | available | $9.98     | —             | 62             | 91     | 11     | namecheap            |
 | loans.loan       | resell    | —         | —             | 58             | 24     | 5      | Porkbun              |
 | Chanel.loan      | premium   | $490      | $70           | 80             | 77     | 6      | namecheap            |
-| chem.loan        | available | $9.98     | —             | 74             | 24     | 4      | namecheap            |
+| prompts.loan     | available | $5.25     | $6.25         | 54             | 39     | 7      | namesilo             |
 | rights.loan      | resell    | —         | —             | 50             | 19     | 6      | Dominet (HK) Limited |
 | travelers.loan   | premium   | $437.50   | —             | 58             | 61     | 9      | name.com             |
-| whats.loan       | available | $5.25     | $6.25         | 58             | 24     | 5      | namesilo             |
+| chem.loan        | available | $9.98     | —             | 74             | 24     | 4      | namecheap            |
 | RedSox.loan      | premium   | $490      | $70           | 72             | 60     | 7      | namecheap            |
-| products.loan    | available | $9.98     | —             | 60             | 23     | 8      | namecheap            |
+| whats.loan       | available | $5.25     | $6.25         | 58             | 24     | 5      | namesilo             |
 | regions.loan     | premium   | $625      | —             | 64             | 59     | 7      | name.com             |
-| CapeCod.loan     | available | $9.98     | —             | 78             | 22     | 8      | namecheap            |
+| products.loan    | available | $9.98     | —             | 60             | 23     | 8      | namecheap            |
 | farmers.loan     | premium   | $6,250    | —             | 54             | 59     | 7      | name.com             |
-| results.loan     | available | $9.98     | —             | 59             | 22     | 7      | namecheap            |
+| CapeCod.loan     | available | $9.98     | —             | 78             | 22     | 8      | namecheap            |
 | Books.loan       | premium   | $7,000    | $140          | 52             | 49     | 5      | namecheap            |
-| restaurants.loan | available | $9.98     | —             | 57             | 21     | 11     | namecheap            |
+| results.loan     | available | $9.98     | —             | 59             | 22     | 7      | namecheap            |
 | jobs.loan        | premium   | $625      | —             | 79             | 42     | 4      | name.com             |
-| managed.loan     | available | $9.98     | —             | 58             | 20     | 7      | namecheap            |
+| restaurants.loan | available | $9.98     | —             | 57             | 21     | 11     | namecheap            |
 | shortcuts.loan   | premium   | $437.50   | —             | 48             | 41     | 10     | name.com             |
-| knows.loan       | available | $9.98     | —             | 48             | 20     | 5      | namecheap            |
-| Tools.loan       | premium   | $490      | $70           | 56             | 40     | 5      | namecheap            |
+| managed.loan     | available | $9.98     | —             | 58             | 20     | 7      | namecheap            |
+| lets.loan        | premium   | $6,250    | —             | 77             | 39     | 4      | name.com             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,258 live domains                              |
+| 1,000-row public sample | 12,769 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
