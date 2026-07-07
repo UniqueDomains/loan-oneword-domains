@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .loan one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,770 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,770 domains · **Median ask:** $371.45 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,770 domains · **Median ask:** $507.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/loan`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/loan`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LOAN one-word domain 
 
 ### Files
 
-- `loan.csv` — public CSV extract (1,000 rows)
-- `loan.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `loan.csv`, public CSV extract (1,000 rows)
+- `loan.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| IsleofMan.loan   | available | $9.98     | —             | 62             | 91     | 11     | namecheap            |
-| loans.loan       | resell    | —         | —             | 58             | 24     | 5      | Porkbun              |
-| Chanel.loan      | premium   | $490      | $70           | 80             | 77     | 6      | namecheap            |
-| prompts.loan     | available | $5.25     | $6.25         | 54             | 39     | 7      | namesilo             |
-| rights.loan      | resell    | —         | —             | 50             | 19     | 6      | Dominet (HK) Limited |
-| travelers.loan   | premium   | $437.50   | —             | 58             | 61     | 9      | name.com             |
-| chem.loan        | available | $9.98     | —             | 74             | 24     | 4      | namecheap            |
-| RedSox.loan      | premium   | $490      | $70           | 72             | 60     | 7      | namecheap            |
-| whats.loan       | available | $5.25     | $6.25         | 58             | 24     | 5      | namesilo             |
-| regions.loan     | premium   | $625      | —             | 64             | 59     | 7      | name.com             |
-| products.loan    | available | $9.98     | —             | 60             | 23     | 8      | namecheap            |
-| farmers.loan     | premium   | $6,250    | —             | 54             | 59     | 7      | name.com             |
-| CapeCod.loan     | available | $9.98     | —             | 78             | 22     | 8      | namecheap            |
-| Books.loan       | premium   | $7,000    | $140          | 52             | 49     | 5      | namecheap            |
-| results.loan     | available | $9.98     | —             | 59             | 22     | 7      | namecheap            |
-| jobs.loan        | premium   | $625      | —             | 79             | 42     | 4      | name.com             |
-| restaurants.loan | available | $9.98     | —             | 57             | 21     | 11     | namecheap            |
-| shortcuts.loan   | premium   | $437.50   | —             | 48             | 41     | 10     | name.com             |
-| managed.loan     | available | $9.98     | —             | 58             | 20     | 7      | namecheap            |
-| lets.loan        | premium   | $6,250    | —             | 77             | 39     | 4      | name.com             |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.loan  | premium   | $116      | $29.50        | high           | low    | 4      | namesilo  |
+| yes.loan   | available | —         | —             | high           | low    | 3      | —         |
+| aids.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| aaa.loan   | premium   | $3,250    | $130          | high           | medium | 3      | namecheap |
+| giza.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| ace.loan   | premium   | $625      | $81.25        | high           | medium | 3      | name.com  |
+| lang.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| add.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| leak.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| bae.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| mile.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| bar.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| tile.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| bow.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| wide.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| cup.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| yall.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| dad.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| aftuh.loan | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo  |
+| ear.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .loan domains. The extension gives immediate category relevance, but the word itself still determines whether a name feels credible, memorable, or too awkward for real lending use. Names like scene.loan, distance.loan, comic.loan, onboard.loan, and routine.loan show how varied this set is: some are broad and brandable, while others are indirect or harder to connect to finance. For founders, the key question is whether the word can carry trust in a sensitive category. For investors, the key question is whether the name has enough commercial clarity to support resale interest at a median ask of $371.45.
+This set includes one-word domain names registered under the .loan extension, spanning everyday words, verbs, and short phrases combined into brandable strings. With 12,770 domains and a median asking price around $507, the range covers both affordable, easily ownable names and higher-priced entries. The .loan extension signals a clear connection to lending, credit, and personal-finance use cases, making these names relevant for founders building in that space and for investors tracking domain pricing trends across niche TLDs.
 
-- Prefer words that sound credible in lending contexts
-- Check if the keyword is direct, broad, or too abstract
-- Use price discipline around the $371.45 median ask
-- Treat weak finance fit as a demand and resale risk
+- 12,770 one-word .loan domains in this selection
+- Median asking price near $507
+- Everyday words and short phrases as brandable .loan names
+- Clear fit for lending, credit, and finance-related brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
