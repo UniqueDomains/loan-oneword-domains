@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .loan one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,770 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,770 domains · **Median ask:** $507.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,770 domains · **Median ask:** $463.32 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/loan`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| half.loan  | premium   | $116      | $29.50        | high           | low    | 4      | namesilo  |
-| yes.loan   | available | —         | —             | high           | low    | 3      | —         |
-| aids.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
-| aaa.loan   | premium   | $3,250    | $130          | high           | medium | 3      | namecheap |
-| giza.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
-| ace.loan   | premium   | $625      | $81.25        | high           | medium | 3      | name.com  |
-| lang.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
-| add.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| leak.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
-| bae.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| mile.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
-| bar.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| tile.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
-| bow.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| wide.loan  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
-| cup.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| yall.loan  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
-| dad.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| aftuh.loan | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo  |
-| ear.loan   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ague.loan | available | $5.98     | $9.98         | low            | low    | 4      | namecheap |
+| aaa.loan  | premium   | $3,250    | $130          | high           | medium | 3      | namecheap |
+| aids.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| abo.loan  | premium   | $625      | $81.25        | low            | low    | 3      | name.com  |
+| giza.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| ace.loan  | premium   | $625      | $81.25        | high           | medium | 3      | name.com  |
+| lang.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| add.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| leak.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| bae.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| mile.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| bar.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| tile.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| bow.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| viii.loan | available | $5.25     | $6.25         | low            | low    | 4      | namesilo  |
+| clx.loan  | premium   | $625      | $81.25        | low            | low    | 3      | name.com  |
+| wide.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| cup.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| xlvi.loan | available | $5.25     | $6.25         | low            | low    | 4      | namesilo  |
+| cxl.loan  | premium   | $625      | $81.25        | low            | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,770 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 26 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
