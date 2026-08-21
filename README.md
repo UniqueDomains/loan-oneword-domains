@@ -1,10 +1,10 @@
-# Available .LOAN One-Word Domains (18,102)
+# Available .LOAN One-Word Domains (18,315)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C102%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C315%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .loan one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,102 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,315 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,102 domains · **Median ask:** $357.16 · **High-demand under $2,500:** 28
+**Public extract:** 1,000 rows · **Live catalog:** 18,315 domains · **Median ask:** $357.00 · **High-demand under $2,500:** 28
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/loan`
@@ -83,7 +83,7 @@ print(df.head())
 | viii.loan | available | $5.25     | $6.25         | low            | low    | 4      | namesilo  |
 | clx.loan  | premium   | $625      | $81.25        | low            | low    | 3      | name.com  |
 | wide.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
-| cup.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| cup.loan  | premium   | $625      | $81.25        | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,102 live domains                        |
+| 1,000-row public sample | 18,315 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 28 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
