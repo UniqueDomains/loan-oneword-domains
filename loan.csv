@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-d80f22d8-edcd-4b99-83bf-3abdb6d39132,hybrid.loan,premium,1107,116,high,low,6,namesilo,,,
+d80f22d8-edcd-4b99-83bf-3abdb6d39132,hybrid.loan,premium,1300,130,high,low,6,namecheap,,,17/09/2026 09:59
 606ea584-4058-41d2-8ef9-4e8975251186,charactertrait.loan,available,5.25,6.25,high,low,15,namesilo,,,
-3f5470ed-df1e-4792-aafa-0927ed663664,custom.loan,premium,6250,125,high,low,6,name.com,,,
+3f5470ed-df1e-4792-aafa-0927ed663664,custom.loan,premium,6900,116,high,low,6,namesilo,,,17/09/2026 09:57
 9bfb1337-a3b8-46d3-a885-93fcff93775d,wordplay.loan,premium,437.5,,medium,low,9,name.com,,,
 9f29c4bf-fcec-4ca4-95c9-2c5536bdb73c,dime.loan,premium,1107,116,medium,low,4,namesilo,,,
 93bb4c9a-95f9-4f16-8496-75d1d9a4c704,aerobic.loan,premium,437.5,62.5,high,low,7,name.com,,,
