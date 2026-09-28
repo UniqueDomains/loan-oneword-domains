@@ -6,7 +6,7 @@ f4ba9c30-0792-499e-900b-9c7b85349db8,silence.loan,premium,455,65,high,low,7,name
 a78ed1a9-b22b-4e82-95c7-8ef45423968e,come.loan,premium,640,77.35,high,low,4,namesilo,,,27/09/2026 06:37
 11f45051-63bf-4886-b308-d2a9348fce5a,habitual.loan,premium,437.5,62.5,high,low,8,name.com,,,20/08/2026 21:28
 c33376ba-3c87-4112-88a1-3f7c192630f0,apparel.loan,premium,448,53.92,high,low,7,namesilo,,,27/09/2026 06:58
-247bc63d-1ec4-42ab-8154-0089dd72bd7b,roast.loan,premium,437.5,,high,low,5,name.com,,,
+247bc63d-1ec4-42ab-8154-0089dd72bd7b,roast.loan,premium,448,53.92,high,low,5,namesilo,,,27/09/2026 15:46
 a24e23b7-9f45-4a9d-8b87-cab2241f3045,idealized.loan,available,5.98,9.98,high,low,9,namecheap,,,21/08/2026 17:58
 e3e07161-d04a-417a-a2d3-2d24dd6534f5,mining.loan,premium,640,77.35,high,low,6,namesilo,,,27/09/2026 06:58
 8700d75a-4c0a-4394-80f6-6e73ac9d0076,purses.loan,available,5.98,9.98,medium,low,6,namecheap,,,20/09/2026 11:07
@@ -35,7 +35,7 @@ e199fb85-6921-462d-ae82-482b8aac488e,deluxe.loan,premium,625,81.25,high,low,6,na
 859e5e90-12de-4e11-b712-1d796e5e7690,comforts.loan,premium,455,65,high,low,8,namecheap,,,18/09/2026 18:50
 8e6c95a1-3eaa-4cef-a967-182ce6f660d5,addresses.loan,available,9.98,,medium,low,9,namecheap,,,
 8f01020e-26cb-4bf7-968a-59958c4401ef,computing.loan,available,5.25,6.25,high,low,9,namesilo,,,19/09/2026 12:12
-18a1c8bb-30b4-4894-a103-3f3e677b94e6,dropped.loan,premium,455,65,high,low,7,namecheap,,,25/09/2026 20:16
+18a1c8bb-30b4-4894-a103-3f3e677b94e6,dropped.loan,premium,455,65,medium,low,7,namecheap,,,25/09/2026 20:16
 a5ae12fb-180a-4f2d-ae84-ca2740449cbd,nimitz.loan,premium,448,53.92,medium,low,6,namesilo,,,17/09/2026 08:52
 412d1af2-0734-4416-9d6d-e02a176818d1,abyla.loan,available,5.25,6.25,medium,low,5,namesilo,,,16/09/2026 15:53
 0651aba3-f614-4143-be07-0c5ebfba4ebf,kicks.loan,premium,448,53.92,high,low,5,namesilo,,,18/09/2026 05:38
@@ -55,31 +55,34 @@ f5744324-374c-48f1-8770-4da88311c72f,willow.loan,available,5.25,6.25,high,low,6,
 61a4047f-7b00-4843-bce1-2c436459444d,gigantic.loan,premium,437.5,62.5,high,low,8,name.com,,,18/08/2026 23:29
 a56a88f5-7eec-4c19-a5fc-68539cef16b5,bailiwick.loan,premium,455,65,medium,low,9,namecheap,,,21/09/2026 19:08
 0bc6520c-bc2d-467a-bc37-c4dc36f35d2b,eyes.loan,premium,437.5,,high,low,4,name.com,,,
+9d1f2eb3-1962-44a7-b36b-769a99d79559,concordia.loan,premium,,,high,low,9,,,,27/09/2026 20:47
 b44f8982-6252-4b90-b288-a447fc8065e8,dominos.loan,available,5.98,9.98,high,low,7,namecheap,,,24/09/2026 23:28
 b78359fb-6411-4b9f-85d6-fd15e78046fa,aground.loan,available,5.25,6.25,medium,low,7,namesilo,,,
 752a6e35-8b99-489e-b227-5b3062ef5a8a,trophic.loan,available,5.98,9.98,medium,low,7,namecheap,,,11/09/2026 20:22
 0fc9e0c3-438e-419d-b169-1dbaefda13b4,oxycontin.loan,premium,448,53.92,medium,low,9,namesilo,,,20/09/2026 00:25
-daccc852-8600-4ce2-ab41-04f891988bba,croat.loan,available,5.25,6.25,high,low,5,namesilo,,,13/08/2026 07:34
+daccc852-8600-4ce2-ab41-04f891988bba,croat.loan,available,5.25,6.25,medium,low,5,namesilo,,,13/08/2026 07:34
 b10180d6-b2ef-4ed0-9c53-31d26327e220,sack.loan,premium,448,53.92,high,low,4,namesilo,,,03/09/2026 15:56
 24181dce-f7ec-4f22-b6ee-2ecd6351edf9,defining.loan,available,5.25,6.25,high,low,8,namesilo,,,10/09/2026 06:00
 5137d399-8c94-42a0-b812-b8f0d7778d53,elder.loan,available,5.25,6.25,high,low,5,namesilo,,,16/08/2026 01:32
+c49d2f7d-1faa-4fd3-bc59-2aeb26b48f10,classes.loan,available,5.25,6.25,medium,low,7,namesilo,,,27/09/2026 23:47
 7d8e726b-c5a4-488e-ba04-5fa61eed1632,beignet.loan,available,5.25,6.25,medium,low,7,namesilo,,,23/09/2026 04:07
 0b5025f9-e459-47a0-a0d9-666453dea5e8,inherent.loan,premium,130,32.5,high,low,8,namecheap,,,23/09/2026 10:30
 ffe79b72-f9f1-4611-9900-3b5dcb668918,naively.loan,available,5.25,6.25,medium,low,7,namesilo,,,15/09/2026 16:00
 c68a7353-2da5-481e-b9ec-5a0e46fea7fa,operator.loan,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 23:32
-917e2bf4-2b2c-4325-9172-ba5cfd81f355,sunrise.loan,premium,116,29.5,high,low,7,namesilo,,,
+917e2bf4-2b2c-4325-9172-ba5cfd81f355,sunrise.loan,premium,116,29.5,high,low,7,namesilo,,,28/09/2026 01:57
 5474c85f-e2e4-437b-a517-d4690b997c39,enlighten.loan,premium,437.5,,high,low,9,name.com,,,
 70188c9a-9b2f-4192-8262-6040ac3a1181,ingress.loan,premium,437.5,62.5,high,low,7,name.com,,,22/08/2026 01:52
 4e995942-f0ef-442e-a97e-5d5a83fc5a7c,literatim.loan,available,5.25,6.25,medium,low,9,namesilo,,,15/09/2026 12:34
-ea36f1b5-3492-4e70-8d2c-434121cf5014,weimar.loan,available,5.25,6.25,high,low,6,namesilo,,,26/09/2026 00:31
-f9fe729d-0099-4214-8b26-32cc88a4ee3a,sprightly.loan,available,5.25,6.25,high,low,9,namesilo,,,10/09/2026 16:49
+fca5016d-04b5-4cd4-87df-6260decbe61d,evaluation.loan,premium,448,53.92,high,low,10,namesilo,,,28/09/2026 02:31
+ea36f1b5-3492-4e70-8d2c-434121cf5014,weimar.loan,available,5.25,6.25,medium,low,6,namesilo,,,26/09/2026 00:31
+f9fe729d-0099-4214-8b26-32cc88a4ee3a,sprightly.loan,available,5.25,6.25,medium,low,9,namesilo,,,10/09/2026 16:49
 5bf3438f-2b6d-45c7-9a26-0241534e7d67,motorised.loan,available,5.25,6.25,medium,low,9,namesilo,,,25/08/2026 08:28
 e601c26a-de46-4c18-881d-cfa7cf8c255d,ablated.loan,available,5.25,6.25,medium,low,7,namesilo,,,
 ff018693-7fae-406a-9366-88b48634b1cc,benzedrine.loan,available,5.25,6.25,medium,low,10,namesilo,,,23/09/2026 08:31
 22964d5f-fe1c-476a-805e-6aeefdf52314,unnoticed.loan,available,5.25,6.25,medium,low,9,namesilo,,,12/09/2026 16:02
-1e75531d-df50-4dd3-b25a-a3a57c9f2969,bluebottle.loan,premium,448,53.92,high,low,10,namesilo,,,21/09/2026 14:09
+1e75531d-df50-4dd3-b25a-a3a57c9f2969,bluebottle.loan,premium,448,53.92,medium,low,10,namesilo,,,21/09/2026 14:09
 85ac0fcb-cab6-43c4-90a1-53a3e1ce678f,forth.loan,available,5.25,6.25,high,low,5,namesilo,,,22/09/2026 14:59
-27c7bdfd-0229-4510-939a-bd52b06f5045,alexanders.loan,premium,448,53.92,high,low,10,namesilo,,,18/09/2026 05:47
+27c7bdfd-0229-4510-939a-bd52b06f5045,alexanders.loan,premium,448,53.92,medium,low,10,namesilo,,,18/09/2026 05:47
 a7df256e-efc0-4f9f-9476-c1056a2022b5,xxviii.loan,available,5.25,6.25,medium,low,6,namesilo,,,
 4bab01d3-d5b4-41f2-b9d0-b41b2deb61f4,chivalrous.loan,available,5.25,6.25,high,low,10,namesilo,,,12/08/2026 06:14
 82df616d-0556-439f-9b3e-69c88231675e,bennett.loan,premium,448,53.92,high,low,7,namesilo,,,23/09/2026 08:31
@@ -106,7 +109,7 @@ ec583dde-92e0-4592-a5ad-84238404fff6,firedog.loan,premium,448,53.92,medium,low,7
 313a7966-b5ab-4b37-9c41-bae599b9eed7,beetling.loan,available,5.25,6.25,medium,low,8,namesilo,,,09/08/2026 08:22
 7dd692e6-795a-4951-a609-26c3b474e418,loot.loan,premium,3450,116,high,low,4,namesilo,,,24/09/2026 06:49
 3bed8853-5225-4562-89dc-97d73338d9d6,except.loan,available,5.25,6.25,high,low,6,namesilo,,,
-aed710f7-4d55-4b86-bf7b-b77dc67714e8,churning.loan,available,5.25,6.25,high,low,8,namesilo,,,12/08/2026 07:51
+aed710f7-4d55-4b86-bf7b-b77dc67714e8,churning.loan,available,5.25,6.25,medium,low,8,namesilo,,,12/08/2026 07:51
 ea1bc160-a1c0-418d-aa15-03059db29d1b,palladium.loan,premium,448,53.92,high,low,9,namesilo,,,20/09/2026 23:10
 2503c05c-a6b0-447b-9438-715debbb2762,sequel.loan,premium,437.5,,high,low,6,name.com,,,
 a8d2f0eb-38af-4886-9aab-ed52fdb09975,childhood.loan,available,5.25,6.25,high,low,9,namesilo,,,
@@ -115,11 +118,12 @@ d92e2c60-9c0d-4a13-a5b4-a396803a7177,abator.loan,available,5.25,6.25,medium,low,
 56ce6008-94a2-4ce5-8175-c14bd3d0580b,ignescent.loan,available,5.98,9.98,medium,low,9,namecheap,,,21/08/2026 18:22
 63b04d59-6dd2-4fd0-98d3-6dcff597d45e,alderman.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 04:34
 45085fe6-ec4a-4c53-b506-b7e18c3878f9,alike.loan,premium,448,53.92,high,low,5,namesilo,,,21/09/2026 23:59
-d5e3cd54-f3d8-4214-aff8-b0dba83cbb3d,broadly.loan,premium,437.5,,high,low,7,name.com,,,
+d5e3cd54-f3d8-4214-aff8-b0dba83cbb3d,broadly.loan,premium,437.5,,medium,low,7,name.com,,,
 daa13d15-c724-43f6-bfc2-c6ff36dc7ca5,collapsed.loan,available,34.99,37.99,low,low,9,name.com,,,20/09/2026 18:10
 1f7924bd-da84-4b1d-ade4-701d57feda66,newfangled.loan,premium,448,53.92,high,low,10,namesilo,,,03/09/2026 16:46
 0cc48daf-f6d8-4893-b5a9-038051db2d5a,sonsie.loan,available,5.98,9.98,medium,low,6,namecheap,,,10/08/2026 20:34
 98cd4fc6-3ec5-465b-b0cf-421e9879fb79,subjects.loan,available,5.25,6.25,medium,low,8,namesilo,,,
+643ba131-23d4-4aa7-94b8-28c9ffb07f41,vicksburg.loan,available,4.18,5.18,medium,low,9,cloudflare,,,28/09/2026 03:05
 92fbb22c-2cfa-4a58-8cdc-a1931c622425,wrinkle.loan,premium,437.5,62.5,medium,low,7,name.com,,,13/08/2026 07:11
 0eb81ee4-eeac-4e5d-ae06-fb585dfbff46,abbot.loan,premium,448,53.92,medium,low,5,namesilo,,,16/09/2026 14:31
 d0dc9402-b595-413b-9928-0725802c19c7,unseasoned.loan,available,5.98,9.98,medium,low,10,namecheap,,,12/09/2026 18:46
@@ -160,12 +164,12 @@ fa50d4f4-4b66-4f95-8c9e-346055e22d24,eidetic.loan,available,5.25,6.25,medium,low
 459da31d-5a2a-4c13-b124-7f62abe85ef4,depressing.loan,available,5.25,6.25,medium,low,10,namesilo,,,12/08/2026 03:50
 738629a9-f2bd-4e55-9b4d-de7681a6fb4f,thorpe.loan,available,5.25,6.25,high,low,6,namesilo,,,
 5a665957-fb52-4353-8bb5-e660d7a7020f,venal.loan,premium,437.5,62.5,medium,low,5,name.com,,,11/08/2026 03:46
-504fb482-a583-4970-be25-ce9bc4b703bf,greasy.loan,available,5.98,9.98,high,low,6,namecheap,,,20/08/2026 19:35
+504fb482-a583-4970-be25-ce9bc4b703bf,greasy.loan,available,5.98,9.98,medium,low,6,namecheap,,,20/08/2026 19:35
 4732f402-9429-459b-8227-6db47ca51fe0,orpine.loan,available,5.25,6.25,medium,low,6,namesilo,,,24/08/2026 07:58
 d6d0fad4-36b3-4663-8fd2-15f067ca84c2,accessary.loan,available,5.25,6.25,medium,low,9,namesilo,,,
 7fd47fd4-1406-4f56-a87e-439aaa01a193,baldhead.loan,premium,448,53.92,medium,low,8,namesilo,,,21/09/2026 21:41
 33e7ddd9-3c72-4697-b0b9-0a69d3d4dcb9,skinner.loan,premium,448,53.92,high,low,7,namesilo,,,21/09/2026 11:52
-8283c5a5-bdb5-41c8-a590-ec184932d447,derelict.loan,available,5.25,6.25,high,low,8,namesilo,,,21/09/2026 13:39
+8283c5a5-bdb5-41c8-a590-ec184932d447,derelict.loan,available,5.25,6.25,medium,low,8,namesilo,,,21/09/2026 13:39
 d6483c0c-40ef-4e6a-a1d9-f3c0154236c0,entitled.loan,premium,448,53.92,high,low,8,namesilo,,,24/09/2026 14:10
 d72f3459-071e-4797-913f-fc125b491f3c,ennead.loan,available,5.25,6.25,medium,low,6,namesilo,,,
 21ee6fcc-40fc-45c2-903f-3e473f657b5b,edirne.loan,available,5.25,6.25,medium,low,6,namesilo,,,17/09/2026 10:01
@@ -208,7 +212,7 @@ e0951e49-1f53-4778-ac94-3f1a3f531498,absently.loan,available,5.25,6.25,medium,lo
 56762fdb-f1af-433f-a634-6949807fe234,alienation.loan,premium,448,53.92,high,low,10,namesilo,,,18/09/2026 07:35
 4462117e-cb7c-49ee-a0d5-2d9df4cf0830,dependable.loan,premium,1107,116,high,low,10,namesilo,,,14/08/2026 02:04
 82489899-f881-4263-a62f-5b8c3e07c84a,grey.loan,premium,448,53.92,high,low,4,namesilo,,,08/09/2026 07:08
-ace83456-fbf4-4d71-90fa-863e1af9759c,chatham.loan,available,5.25,6.25,high,low,7,namesilo,,,25/09/2026 15:25
+ace83456-fbf4-4d71-90fa-863e1af9759c,chatham.loan,available,5.25,6.25,medium,low,7,namesilo,,,25/09/2026 15:25
 22643ab2-f146-4a20-aa6a-e96efd94f453,cochlear.loan,premium,437.5,62.5,medium,low,8,name.com,,,12/08/2026 14:45
 a069cfe2-63b8-48bf-b339-ae9898e50c38,wanly.loan,available,5.25,6.25,low,low,5,namesilo,,,16/09/2026 11:19
 4961fd44-f824-47d7-8112-02b8916f7795,once.loan,premium,455,65,high,low,4,namecheap,,,24/09/2026 15:11
@@ -223,8 +227,8 @@ eb737b63-b885-4ed5-ae9f-f660e4d855ca,calculable.loan,available,5.25,6.25,high,lo
 e4435581-cd89-4d9b-ba36-7ac8182f473c,flossy.loan,premium,437.5,62.5,medium,low,6,name.com,,,14/08/2026 17:44
 6f8738bd-59f1-435b-b286-a327bf6f73bc,perfidy.loan,available,5.25,6.25,medium,low,7,namesilo,,,23/09/2026 11:25
 818478a8-bbb5-481c-ac7a-88b7e4b4d3c0,walker.loan,available,5.25,6.25,high,low,6,namesilo,,,08/09/2026 12:36
-4c0deeab-7c46-4af9-939b-1b8b2b482b25,disparity.loan,available,5.25,6.25,high,low,9,namesilo,,,
-a22c94d9-1825-4eba-ade3-8185191f1481,annular.loan,available,,,high,low,7,,,,
+4c0deeab-7c46-4af9-939b-1b8b2b482b25,disparity.loan,available,5.25,6.25,medium,low,9,namesilo,,,
+a22c94d9-1825-4eba-ade3-8185191f1481,annular.loan,available,,,medium,low,7,,,,
 90542c95-cb2f-48a1-bebd-723cd303e0c2,sloth.loan,premium,437.5,,high,low,5,name.com,,,
 992435f0-5652-4579-b9c2-fc0d0f028ec1,superbly.loan,available,5.25,6.25,high,low,8,namesilo,,,
 86671528-38fe-4605-9c94-39c7d268bd44,alabaman.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 01:35
@@ -235,11 +239,12 @@ a22c94d9-1825-4eba-ade3-8185191f1481,annular.loan,available,,,high,low,7,,,,
 3e7fd647-e7f9-4c55-9769-abe96ec84c7d,arrest.loan,premium,437.5,62.5,high,low,6,name.com,,,20/08/2026 22:54
 8b9e7621-a739-4bc6-97d8-1d0a6638885c,shaver.loan,premium,437.5,62.5,medium,low,6,name.com,,,25/08/2026 00:03
 8abae862-e22f-49f2-a0f2-9ac1141fa614,tendency.loan,premium,437.5,62.5,high,low,8,name.com,,,22/08/2026 22:11
+030c01a9-c94f-44f8-8129-709ed6f08756,horror.loan,available,4.18,5.18,high,low,6,cloudflare,,,27/09/2026 14:08
 9f13c2c3-8e8f-4e9c-b4a3-69534061f0af,jelled.loan,available,5.98,9.98,medium,low,6,namecheap,,,12/08/2026 21:27
 c4aa50e0-43b4-4159-acfa-51ec5664cc24,walks.loan,available,5.25,6.25,medium,low,5,namesilo,,,25/09/2026 16:37
 485f3679-e3aa-4ca9-8b1d-fe4ef6696f65,conceal.loan,premium,437.5,,high,low,7,name.com,,,
 bbddc247-5245-4a5e-b3cb-ac0d257863a6,limiting.loan,available,5.25,6.25,high,low,8,namesilo,,,23/09/2026 19:42
-741320b6-11b1-4c8b-8dce-c9cf0937598b,nuremberg.loan,available,5.25,6.25,high,low,9,namesilo,,,25/09/2026 23:53
+741320b6-11b1-4c8b-8dce-c9cf0937598b,nuremberg.loan,available,5.25,6.25,medium,low,9,namesilo,,,25/09/2026 23:53
 3dbffb09-a033-4e3e-828f-ef64334f7baf,flexuous.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/08/2026 08:08
 82dac491-1ab3-425d-ae59-610b81f175d1,dryers.loan,available,5.98,9.98,medium,low,6,namecheap,,,21/09/2026 07:40
 284ddfe4-ecfb-4ec1-a41e-d14956428d96,frequent.loan,premium,625,81.25,high,low,8,name.com,,,18/08/2026 15:06
@@ -267,7 +272,7 @@ a2056235-83bb-4ab4-a9de-9f4ef40a92f7,kgb.loan,premium,625,,high,low,3,name.com,,
 d655dc65-be33-4577-ba32-5f030cc70144,abortion.loan,available,5.25,6.25,high,low,8,namesilo,,,16/09/2026 16:39
 96eaa996-90c4-4fc8-9aa3-6388075e1899,sequent.loan,premium,437.5,62.5,high,low,7,name.com,,,
 a6b90d94-0dbe-4fc3-9290-a12c2a9ee92b,hellenic.loan,premium,437.5,62.5,high,low,8,name.com,,,20/08/2026 17:54
-52c275d6-212b-4959-b599-e5728b183dac,fail.loan,premium,437.5,,high,low,4,name.com,,,
+52c275d6-212b-4959-b599-e5728b183dac,fail.loan,premium,437.5,,medium,low,4,name.com,,,
 7fd5775f-9232-4982-bfbc-5fb4cb557b1f,jena.loan,premium,455,65,medium,low,4,namecheap,,,22/09/2026 15:18
 8552c339-d465-4789-8949-283c4b26d2cc,easily.loan,premium,6900,116,high,low,6,namesilo,,,24/09/2026 13:14
 320d2a4f-2a0f-45ea-84cd-2ddc071a191c,lxx.loan,premium,625,81.25,medium,low,3,name.com,,,
@@ -309,7 +314,7 @@ fd954413-6b41-4e97-90fb-b5a6735d9624,skyward.loan,premium,437.5,62.5,high,low,7,
 6ecc2fe7-5849-4019-a801-035a1165b1a6,bighorn.loan,premium,448,53.92,high,low,7,namesilo,,,23/09/2026 15:10
 984ed70a-54dd-4e5d-a39d-63edfebf387c,nobleman.loan,premium,455,65,high,low,8,namecheap,,,03/09/2026 18:00
 3ae85265-56d9-4fdc-99b0-0a52d0d4c568,madman.loan,premium,437.5,62.5,high,low,6,name.com,,,24/08/2026 11:20
-6009454f-0d10-49c4-bbd2-0444f023f2b7,moreover.loan,premium,455,65,high,low,8,namecheap,,,14/09/2026 20:44
+6009454f-0d10-49c4-bbd2-0444f023f2b7,moreover.loan,premium,455,65,medium,low,8,namecheap,,,14/09/2026 20:44
 2175a7a7-42b7-4618-86c3-b5e721173520,tyler.loan,available,5.25,6.25,high,medium,5,namesilo,,,25/09/2026 08:02
 ebed094c-f009-48e8-8c69-7537374ee1fd,material.loan,premium,1107,116,high,low,8,namesilo,,,23/09/2026 23:27
 a73cbb69-f533-46d6-8d81-2b1dd3a9bc6d,mortal.loan,premium,437.5,62.5,high,low,6,name.com,,,13/08/2026 19:33
@@ -324,6 +329,7 @@ d881d094-a52e-4145-a734-05dcd2278806,publicity.loan,available,5.25,6.25,high,low
 8400396e-3419-4475-ba51-e00912035407,silver.loan,premium,1107,116,high,low,6,namesilo,,,22/09/2026 07:45
 a2bedb99-a0b3-4a5f-85de-e0d7287a6f0e,awl.loan,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 10:07
 44c96494-1f79-4295-af38-3f88537a4ab8,gymnastic.loan,available,5.98,9.98,high,low,9,namecheap,,,
+599d8c67-7a0b-43f6-b272-3cbdefc19a51,shrink.loan,premium,362.45,51.95,high,low,6,spaceship,,,28/09/2026 01:56
 268d1ef6-5f72-4360-8d55-8674c51a52c5,beda.loan,premium,448,53.92,high,low,4,namesilo,,,21/09/2026 17:20
 0ee1914d-6c95-439d-843b-12fc7e82925a,athena.loan,premium,455,65,high,medium,6,namecheap,,,20/09/2026 20:35
 8b09471c-a31b-4f29-98bc-25a584ec6405,separate.loan,available,5.25,6.25,high,low,8,namesilo,,,24/09/2026 11:16
@@ -351,7 +357,7 @@ b9f583c1-b6b7-4aeb-964c-f6f68d7f516c,clueless.loan,premium,437.5,62.5,medium,low
 62afad01-7768-4cf1-8c2b-7782f99be1e5,argent.loan,available,5.98,9.98,high,low,6,namecheap,,,06/08/2026 17:51
 fab62d87-b388-48d8-a461-f7022a9c55f5,qualification.loan,available,5.25,6.25,high,low,13,namesilo,,,
 7382d2bd-6d97-47f2-afaf-27c6edb52696,sake.loan,available,5.98,9.98,high,low,4,namecheap,,,27/09/2026 05:08
-aacac38c-eef1-495b-99a0-4ba5bc5bf606,palladian.loan,premium,448,53.92,high,low,9,namesilo,,,04/09/2026 23:44
+aacac38c-eef1-495b-99a0-4ba5bc5bf606,palladian.loan,premium,448,53.92,medium,low,9,namesilo,,,04/09/2026 23:44
 3da8bacd-18fd-4160-bc6e-7c98af69eb16,antiquity.loan,premium,448,53.92,medium,low,9,namesilo,,,19/09/2026 03:50
 fd0fffe9-54e5-4671-abb7-ddc32f7b47f4,breezily.loan,available,5.25,6.25,medium,low,8,namesilo,,,14/09/2026 01:28
 8ff26c8d-209e-4321-a6e4-47da74e38a56,bumper.loan,premium,448,53.92,high,low,6,namesilo,,,24/09/2026 11:09
@@ -364,7 +370,7 @@ faa00659-2a06-476a-8da1-fdfc6e649256,etcetera.loan,premium,455,65,high,low,8,nam
 6065bf23-6e8a-453e-ab75-69c624ff9466,surge.loan,premium,448,53.92,high,low,5,namesilo,,,23/09/2026 16:36
 e34c5ae8-cee8-4e76-a8fa-811f5da8a895,berberis.loan,available,5.98,9.98,high,low,8,namecheap,,,23/09/2026 09:08
 510cfc6f-644d-4a42-8f1c-39d1df0f7959,meg.loan,premium,625,81.25,high,low,3,name.com,,,24/08/2026 23:20
-658dc883-a176-4d67-9c00-3e0ce65ed240,hopes.loan,premium,455,65,high,low,5,namecheap,,,25/09/2026 19:44
+658dc883-a176-4d67-9c00-3e0ce65ed240,hopes.loan,premium,455,65,medium,low,5,namecheap,,,25/09/2026 19:44
 bbd11721-f281-4158-9c2a-0bade893f7ec,kenneth.loan,premium,455,65,high,low,7,namecheap,,,25/09/2026 19:13
 096d6a87-2b44-4a30-8f4f-5830fac256ae,rateable.loan,available,5.25,6.25,high,medium,8,namesilo,,,09/09/2026 10:32
 9b1abec1-7365-4458-88ff-af866377f4aa,bursal.loan,available,5.25,6.25,medium,low,6,namesilo,,,11/08/2026 11:04
@@ -372,13 +378,13 @@ d2a84a96-0e5f-40ac-bf57-db3be47491cf,bushwhack.loan,available,5.25,6.25,medium,l
 4d13911a-3406-47fa-a5ed-4ecc15f0e992,aguacate.loan,available,5.25,6.25,medium,low,8,namesilo,,,07/08/2026 23:46
 c2fa55e0-c14c-43d6-8dab-8f99cf42ecf1,auvergne.loan,available,5.98,9.98,medium,low,8,namecheap,,,21/09/2026 08:32
 6ab8d276-ec13-4bb6-8e67-d0a975ba1633,harassed.loan,available,5.25,6.25,medium,low,8,namesilo,,,21/08/2026 00:06
-39578888-f004-40f7-9ee4-7ed7e13d03a8,crafts.loan,available,5.25,6.25,high,low,6,namesilo,,,19/09/2026 02:50
+39578888-f004-40f7-9ee4-7ed7e13d03a8,crafts.loan,available,5.25,6.25,medium,low,6,namesilo,,,19/09/2026 02:50
 b38cddb1-1644-493d-adf2-ca320c84b019,alamo.loan,premium,437.5,,high,medium,5,name.com,,,
-28eaef74-b071-4135-ba4c-0f378d42daca,woops.loan,premium,437.5,,high,low,5,name.com,,,
+28eaef74-b071-4135-ba4c-0f378d42daca,woops.loan,premium,437.5,,medium,low,5,name.com,,,
 f7947312-49a2-4b31-aebd-6d18e94cabce,sand.loan,premium,116,29.5,high,low,4,namesilo,,,18/09/2026 15:40
-7008341b-95cf-4aa1-baee-b13618e08c86,atacama.loan,premium,437.5,,high,low,7,name.com,,,
+7008341b-95cf-4aa1-baee-b13618e08c86,atacama.loan,premium,437.5,,medium,low,7,name.com,,,
 01e158a0-a9e9-4637-abfe-21175b2d3dde,iraqi.loan,premium,1107,116,high,low,5,namesilo,,,22/08/2026 09:35
-27199508-2b7a-463a-bbdc-97245620ded6,overly.loan,available,5.25,6.25,high,low,6,namesilo,,,14/09/2026 16:48
+27199508-2b7a-463a-bbdc-97245620ded6,overly.loan,available,5.25,6.25,medium,low,6,namesilo,,,14/09/2026 16:48
 215deb6e-85b6-4ee0-b0ad-54cf15a0436a,oldfield.loan,available,5.25,6.25,medium,low,8,namesilo,,,22/09/2026 06:52
 e66837fa-5cf2-48cd-9539-8922aa42c296,cowpea.loan,available,5.25,6.25,medium,low,6,namesilo,,,23/09/2026 23:43
 66ed8402-a297-4a46-a1ba-eb7b7e689b72,leonard.loan,available,5.98,9.98,high,low,7,namecheap,,,25/09/2026 22:27
@@ -398,7 +404,7 @@ a90f1ddd-48e7-4f61-860b-468d785fd597,numerous.loan,available,5.25,6.25,high,low,
 edc0afbf-a824-4d48-aca0-e1e62b3835a0,employable.loan,available,5.98,9.98,high,low,10,namecheap,,,16/08/2026 18:22
 3d47db3d-f7a8-4793-87f2-f48204013ee2,seasoned.loan,available,5.25,6.25,high,low,8,namesilo,,,10/09/2026 01:00
 a478442f-1952-458d-a910-b8a254eedbf9,biota.loan,premium,437.5,62.5,high,low,5,name.com,,,23/09/2026 19:05
-add21a94-4d85-4dc4-92c5-f53153266c6b,purposely.loan,available,5.25,6.25,high,low,9,namesilo,,,13/09/2026 17:36
+add21a94-4d85-4dc4-92c5-f53153266c6b,purposely.loan,available,5.25,6.25,medium,low,9,namesilo,,,13/09/2026 17:36
 fc95f6a9-7026-44da-bae8-4ba7b912888c,zapotec.loan,premium,448,53.92,high,low,7,namesilo,,,13/09/2026 15:07
 809b434d-d2fb-4ef0-b8e0-34d1584cbb93,afar.loan,premium,448,53.92,medium,low,4,namesilo,,,13/09/2026 17:46
 dbffa9d7-7f22-4d49-ab22-d450ef17a456,wired.loan,premium,640,77.35,high,low,5,namesilo,,,27/09/2026 08:11
@@ -419,9 +425,9 @@ f8d23518-2789-42bb-98e2-0f9deaf46a51,fails.loan,available,5.25,6.25,medium,low,5
 96e0e674-4e25-41c3-af03-c3c8f7feb09f,than.loan,available,9.98,,high,low,4,namecheap,,,
 110c9a00-ee32-4b22-b0ff-612185739311,liberties.loan,premium,448,53.92,medium,low,9,namesilo,,,18/09/2026 04:52
 106d84b4-19fd-4f12-8d56-6106a4a7c8c0,muhammadan.loan,available,5.25,6.25,medium,low,10,namesilo,,,25/08/2026 03:21
-b30fdc08-1cdc-43db-b2a8-07093e7a3436,ego.loan,premium,625,,high,low,3,name.com,,,
+b30fdc08-1cdc-43db-b2a8-07093e7a3436,ego.loan,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 19:53
 2b3cf307-81c3-4063-bf07-66e668b41e9e,unilateral.loan,available,5.25,6.25,medium,low,10,namesilo,,,12/09/2026 12:59
-cf953752-b5ae-46fa-8823-cad2c8230fe8,ridicule.loan,available,5.25,6.25,high,low,8,namesilo,,,24/09/2026 02:25
+cf953752-b5ae-46fa-8823-cad2c8230fe8,ridicule.loan,available,5.25,6.25,medium,low,8,namesilo,,,24/09/2026 02:25
 5fbf465d-2dd3-4b25-9705-0de46c2bac28,chime.loan,available,,,high,low,5,,,,
 42eef74f-823e-4b46-be70-711289509bde,belem.loan,available,5.25,6.25,medium,low,5,namesilo,,,23/09/2026 04:51
 87771593-0c5d-4b24-9877-2cb0b3260fb6,university.loan,premium,13800,116,high,low,10,namesilo,,,26/09/2026 00:46
@@ -440,9 +446,9 @@ c2f20717-4d67-4071-944a-605911744877,eagerness.loan,available,5.25,6.25,high,low
 5c7a6b71-9f53-4347-b04a-cb72e9d675a7,punished.loan,available,5.25,6.25,high,medium,8,namesilo,,,09/09/2026 06:01
 73a76ab3-cba2-4fb9-a917-aadda599ccd0,shinto.loan,premium,448,53.92,high,medium,6,namesilo,,,10/09/2026 06:32
 2c531757-33c3-44be-95cc-d7095e9b1097,concluding.loan,available,5.25,6.25,high,low,10,namesilo,,,19/09/2026 15:36
-d507049b-4f75-4c97-983d-3240a951516a,arco.loan,premium,437.5,62.5,high,low,4,name.com,,,06/08/2026 16:02
+d507049b-4f75-4c97-983d-3240a951516a,arco.loan,premium,437.5,62.5,medium,low,4,name.com,,,06/08/2026 16:02
 4e2772eb-1082-45d4-a76a-6c2bc13dc06e,wellington.loan,available,5.25,6.25,high,low,10,namesilo,,,20/09/2026 11:08
-3e7ff77a-c093-40ce-be47-a839eed22fe8,petitioner.loan,available,5.25,6.25,high,low,10,namesilo,,,11/09/2026 03:30
+3e7ff77a-c093-40ce-be47-a839eed22fe8,petitioner.loan,available,5.25,6.25,medium,low,10,namesilo,,,11/09/2026 03:30
 93555c41-e019-46d7-9ef5-f45fcd82c312,latish.loan,available,5.25,6.25,medium,low,6,namesilo,,,22/08/2026 20:43
 2d8b0618-c240-4d4b-b62e-e4576124c6aa,splashed.loan,available,34.99,37.99,high,low,8,name.com,,,13/08/2026 15:18
 cf552292-d6dd-4acf-ac47-35d2fcdbdb24,cameron.loan,premium,455,65,high,low,7,namecheap,,,25/09/2026 21:03
@@ -456,12 +462,13 @@ b6c5e9c5-78b4-49bc-8e3b-5f02e7dcc84d,divorcing.loan,available,5.25,6.25,low,low,
 ccc6edea-0c0f-4162-ad8b-ba7825876075,woman.loan,premium,1107,116,high,low,5,namesilo,,,
 86d51987-112d-4874-be69-00f82b3f115c,dandily.loan,available,5.25,6.25,medium,low,7,namesilo,,,14/09/2026 10:33
 6503792e-f8a9-4eb1-a9be-4499a113af12,lawfully.loan,available,34.99,37.99,medium,low,8,name.com,,,13/08/2026 19:09
-911ca837-8f26-4ee1-99be-a504f8a66946,barnum.loan,premium,448,53.92,high,low,6,namesilo,,,22/09/2026 06:55
+911ca837-8f26-4ee1-99be-a504f8a66946,barnum.loan,premium,448,53.92,medium,low,6,namesilo,,,22/09/2026 06:55
 ce0ad83c-9f3e-411f-af4d-e0536d74b523,alkahest.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 03:42
-548f4b78-7122-4c7a-b0eb-f1bd3c90453e,triennial.loan,available,5.98,9.98,high,low,9,namecheap,,,11/09/2026 19:31
+548f4b78-7122-4c7a-b0eb-f1bd3c90453e,triennial.loan,available,5.98,9.98,medium,low,9,namecheap,,,11/09/2026 19:31
 5a5a3b1b-aaa2-4bc9-a83b-e5be8b931497,aphrodisia.loan,premium,448,53.92,medium,low,10,namesilo,,,19/09/2026 17:14
 bc22635e-59eb-4774-a830-734d7196bda6,federate.loan,available,5.25,6.25,high,low,8,namesilo,,,18/08/2026 00:36
 f896061a-a84c-4b5e-9d0d-4629201433eb,peeking.loan,available,5.25,6.25,high,low,7,namesilo,,,
+9255e68b-f2df-4707-b10b-f89c9793edf2,seeking.loan,premium,2587.7,103.7,high,low,7,spaceship,,,27/09/2026 15:47
 e41bd2b3-9702-4892-b388-83fa5daa4a28,ebullient.loan,available,5.25,6.25,high,low,9,namesilo,,,14/08/2026 23:20
 b31709be-657d-42a6-acf9-605fd7842213,brushing.loan,available,5.25,6.25,high,low,8,namesilo,,,
 06f9e66f-d7ce-427b-8d90-06f428818d34,asking.loan,available,5.25,6.25,high,low,6,namesilo,,,
@@ -487,19 +494,19 @@ d8711f73-edfd-4125-92cd-2b88b8c3a4bf,freedom.loan,premium,6250,,high,medium,7,na
 c0915b1d-e70c-439c-9335-996bb80e0faf,organized.loan,premium,130,32.5,high,low,9,namecheap,,,26/09/2026 00:25
 8aaf07c3-3048-448e-bab2-5cae2ce65af3,springy.loan,available,5.25,6.25,high,low,7,namesilo,,,10/08/2026 21:49
 23bddac5-6701-422c-9af4-fbbe20942c02,clitoral.loan,available,5.25,6.25,medium,low,8,namesilo,,,12/08/2026 11:25
-595abc01-da35-4695-9679-efd42c7dc54a,declared.loan,available,5.98,9.98,high,low,8,namecheap,,,13/08/2026 21:46
+595abc01-da35-4695-9679-efd42c7dc54a,declared.loan,available,5.98,9.98,medium,low,8,namecheap,,,13/08/2026 21:46
 ff303cd5-1d4a-4a93-8fa5-36eea3eab5c1,stunned.loan,available,34.99,37.99,high,low,7,name.com,,,22/09/2026 03:44
 3bc2987c-90f7-4de0-bd79-5642de172156,parka.loan,premium,448,53.92,high,low,5,namesilo,,,19/09/2026 11:41
 a3a85e8a-5511-4f75-be8a-d12db529e620,conductive.loan,premium,437.5,62.5,high,low,10,name.com,,,12/08/2026 20:33
 8ac96bd1-f88d-4305-b0e3-20c650435b57,bundle.loan,premium,437.5,,high,low,6,name.com,,,
-8519859b-3f32-40eb-b2f4-d889b8c02641,faces.loan,premium,437.5,,high,low,5,name.com,,,
+8519859b-3f32-40eb-b2f4-d889b8c02641,faces.loan,premium,437.5,,medium,low,5,name.com,,,
 98b56581-d944-42fa-b1ed-ec6c07f48350,unbent.loan,available,5.25,6.25,medium,low,6,namesilo,,,12/09/2026 01:50
 3e67e50c-fec8-4300-8820-1c00879aed37,bja.loan,premium,640,77.35,medium,low,3,namesilo,,,23/09/2026 23:24
 b88bcb6e-3a38-4f96-a799-543b6d007a7d,islamic.loan,premium,12500,125,high,low,7,name.com,,,22/08/2026 10:50
 4609f5ed-569b-46c9-a65e-2e4eae83f158,trillion.loan,premium,1107,116,high,low,8,namesilo,,,11/09/2026 19:49
 124827de-788d-4c43-94c5-5576284ef5a2,formidably.loan,available,5.98,9.98,medium,low,10,namecheap,,,14/09/2026 19:46
 85d8708c-c9f4-46ca-9b94-81e3974bfd23,affiliation.loan,available,5.25,6.25,high,low,11,namesilo,,,
-a48da574-89ce-4fb6-9df7-48295052f3f2,sudden.loan,premium,116,29.5,high,low,6,namesilo,,,
+a48da574-89ce-4fb6-9df7-48295052f3f2,sudden.loan,premium,103.7,26.08,high,low,6,spaceship,,,28/09/2026 01:51
 8da0e4a9-4731-47b8-8b71-82d49e5eb928,filming.loan,available,5.25,6.25,high,low,7,namesilo,,,
 73752e3e-48b2-4eb6-91f4-7e82cad47ef7,steep.loan,premium,437.5,62.5,high,low,5,name.com,,,17/08/2026 17:40
 8a4a7132-3408-4e3c-8321-0568bfe1936d,bills.loan,premium,6900,116,high,low,5,namesilo,,,18/09/2026 06:49
@@ -518,6 +525,7 @@ bb98befe-0346-4acd-a58e-13fe139527e7,unlit.loan,available,5.25,6.25,medium,low,5
 da03a436-487f-4a0b-9a53-541be9801459,nutrients.loan,available,5.25,6.25,medium,low,9,namesilo,,,21/09/2026 00:14
 642beb04-6d44-492c-b9f4-356b9f13b7ae,bewitch.loan,available,5.25,6.25,high,low,7,namesilo,,,21/08/2026 07:41
 b7ce17c8-3d99-49c7-b691-5923321e125c,narrow.loan,premium,448,53.92,high,low,6,namesilo,,,03/09/2026 13:22
+e53770aa-f702-4686-82ff-4fdd30c2bad7,presidential.loan,premium,,,high,low,12,,,,27/09/2026 17:17
 8f89d62b-3824-448a-9caa-eb3296791a93,loyalty.loan,premium,1107,116,high,low,7,namesilo,,,18/09/2026 10:32
 d42d81f8-d062-43d7-9d28-57ba2ae17e9d,zanzibar.loan,premium,437.5,,high,low,8,name.com,,,
 2261d1fb-ba90-4444-8b1c-b16c7ea1b66a,panoplied.loan,available,5.25,6.25,medium,low,9,namesilo,,,06/08/2026 21:42
@@ -533,7 +541,7 @@ bb9695ba-42ff-4b58-9240-5cd600c14d28,retina.loan,premium,437.5,,high,low,6,name.
 9edd48ac-acdf-428d-8118-a8aa4a0cfae7,listener.loan,premium,448,53.92,high,low,8,namesilo,,,21/09/2026 01:30
 7c296ed8-9238-4581-8d8e-3e85e660ee9f,undivided.loan,available,5.25,6.25,high,low,9,namesilo,,,12/09/2026 08:11
 d426f4ff-9fdc-430b-854c-a3530f028a09,build.loan,premium,3450,116,high,medium,5,namesilo,,,24/09/2026 06:26
-ed48d6d0-0f12-4756-be81-d7e142e47ff0,disobedience.loan,available,5.98,9.98,high,low,12,namecheap,,,16/09/2026 12:19
+ed48d6d0-0f12-4756-be81-d7e142e47ff0,disobedience.loan,available,5.98,9.98,medium,low,12,namecheap,,,16/09/2026 12:19
 25be6cde-669c-4116-9dfb-f24a33f09a72,lovable.loan,premium,437.5,62.5,high,low,7,name.com,,,24/08/2026 10:06
 65b94dfa-644f-49eb-97fe-a9016cd1b54a,distinct.loan,premium,625,81.25,high,low,8,name.com,,,12/08/2026 10:31
 34027f9a-1568-4906-8e58-a09dfbbbb1d7,newborn.loan,premium,448,53.92,high,low,7,namesilo,,,03/09/2026 16:41
@@ -565,29 +573,29 @@ d29db5c6-8598-4b5b-83db-2035cbf6595b,castrate.loan,available,5.25,6.25,medium,lo
 a233f9a8-f786-46f3-aeb3-0de2c3f9131e,wakeless.loan,available,5.25,6.25,low,low,8,namesilo,,,13/09/2026 07:45
 1792d0a6-6440-4fa6-9d88-e7014695ea4a,june.loan,premium,116,29.5,high,low,4,namesilo,,,
 745cf22a-2420-4a3d-853a-664a64f72a33,slack.loan,premium,437.5,62.5,high,low,5,name.com,,,22/08/2026 21:24
-1bf6bd7a-a792-4d8d-a106-ff25030c163f,amputee.loan,available,5.25,6.25,high,low,7,namesilo,,,18/09/2026 23:54
+1bf6bd7a-a792-4d8d-a106-ff25030c163f,amputee.loan,available,5.25,6.25,medium,low,7,namesilo,,,18/09/2026 23:54
 ab688bc7-e343-4f16-b01c-5a9318d42e90,arborist.loan,available,5.25,6.25,medium,low,8,namesilo,,,20/09/2026 00:51
-4ab2289c-e7ac-421c-965c-e55343ff4fdf,rounds.loan,premium,455,65,high,low,6,namecheap,,,27/09/2026 02:23
+4ab2289c-e7ac-421c-965c-e55343ff4fdf,rounds.loan,premium,455,65,medium,low,6,namecheap,,,27/09/2026 02:23
 ba6332b6-8f52-4c60-b791-491a128e24ef,disastrous.loan,available,5.25,6.25,medium,low,10,namesilo,,,11/08/2026 13:30
 d5840a43-c6c6-40ae-a0ed-1806669334ab,freudian.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/08/2026 15:26
 9630a054-4177-4c74-911f-87d8b14575a2,struck.loan,available,5.25,6.25,medium,low,6,namesilo,,,10/09/2026 11:50
 aaaeeaa9-5544-4baf-8fbe-69bebcb29bce,arrowroot.loan,available,5.25,6.25,medium,low,9,namesilo,,,17/09/2026 00:43
-ed1984fa-a99a-45dd-9f76-a15781598ad0,astuteness.loan,available,5.98,9.98,high,low,10,namecheap,,,20/09/2026 18:21
+ed1984fa-a99a-45dd-9f76-a15781598ad0,astuteness.loan,available,5.98,9.98,medium,low,10,namecheap,,,20/09/2026 18:21
 63d6458c-4e8e-4655-afb2-9493994eaa58,den.loan,premium,640,77.35,high,low,3,namesilo,,,24/09/2026 21:50
 c60907a1-ff5b-409c-8c2f-bebe86d28c3a,glimmer.loan,premium,437.5,62.5,high,low,7,name.com,,,20/08/2026 14:19
 a487df6c-f960-4a4d-8de2-f9603e3bcea4,cheerfully.loan,available,5.25,6.25,high,low,10,namesilo,,,
 a41c7cc2-eb0f-43d5-be37-4a4b59f266af,unsleeping.loan,available,5.98,9.98,medium,low,10,namecheap,,,12/09/2026 20:02
 08bbbcaa-98cb-440c-bc0f-7644397e1a73,cryonic.loan,available,5.25,6.25,medium,low,7,namesilo,,,13/08/2026 09:37
 d64d4799-9205-4c8f-9f7e-dcafabfa4ef9,babbler.loan,available,5.25,6.25,high,low,7,namesilo,,,21/09/2026 12:25
-798efe51-b3a3-4336-a0d8-36bb01fd4cc2,malamute.loan,premium,448,53.92,high,low,8,namesilo,,,18/09/2026 02:06
-210f7149-eb2b-4ece-92ab-b89c3e776189,booklover.loan,available,5.25,6.25,high,low,9,namesilo,,,23/09/2026 12:51
+798efe51-b3a3-4336-a0d8-36bb01fd4cc2,malamute.loan,premium,448,53.92,medium,low,8,namesilo,,,18/09/2026 02:06
+210f7149-eb2b-4ece-92ab-b89c3e776189,booklover.loan,available,5.25,6.25,medium,low,9,namesilo,,,23/09/2026 12:51
 9d5edecb-6582-4d20-96e7-78bcbfd6d6e6,teachers.loan,premium,6500,130,high,low,8,namecheap,,,18/09/2026 18:31
 df28be6a-04e6-4229-b3fa-6d1c74268d5d,weeny.loan,available,5.25,6.25,high,low,5,namesilo,,,10/08/2026 08:22
 73c1c83c-a091-4148-a741-aeae0011b9b3,sciolist.loan,available,5.25,6.25,medium,low,8,namesilo,,,14/08/2026 07:43
 11bf1a42-9483-4d96-bc0a-ac5f399835fb,preanal.loan,available,5.25,6.25,high,medium,7,namesilo,,,09/09/2026 01:09
 3e762cf3-15a7-4f57-a24d-56205c979138,mesolithic.loan,available,5.98,9.98,medium,low,10,namecheap,,,24/08/2026 21:17
 3f304514-1a5d-4eca-a91d-d1b38502e0b1,jointly.loan,available,5.25,6.25,high,low,7,namesilo,,,
-b419c9e4-da83-4dd2-9c0b-3d2872a583bc,draped.loan,available,5.98,9.98,high,low,6,namecheap,,,14/08/2026 18:23
+b419c9e4-da83-4dd2-9c0b-3d2872a583bc,draped.loan,available,5.98,9.98,medium,low,6,namecheap,,,14/08/2026 18:23
 c3ce9517-2e53-4f20-ba87-aa6ce2a878af,advised.loan,available,5.98,9.98,high,low,7,namecheap,,,23/09/2026 07:10
 432a998a-8c23-4df2-b6cd-d013ae0831d6,emergent.loan,premium,437.5,62.5,high,low,8,name.com,,,16/08/2026 14:17
 8241d3d4-1b7f-4895-a204-44924dd4c151,outdo.loan,available,5.25,6.25,medium,low,5,namesilo,,,09/08/2026 17:43
@@ -602,9 +610,9 @@ c106cda3-8131-4952-8881-8b47ba500c51,expectancy.loan,available,5.25,6.25,high,lo
 b6edcef5-7422-42c9-b9cd-b84716942ab6,alluvial.loan,available,5.25,6.25,high,low,8,namesilo,,,
 c2c9544f-c5d9-4777-85fc-44f7180389f7,pops.loan,premium,448,53.92,high,low,4,namesilo,,,18/09/2026 21:55
 263c2778-00ab-4bfd-a03d-9618e611e292,hollyhock.loan,premium,455,65,medium,low,9,namecheap,,,18/09/2026 14:54
-995c6244-d870-4c5c-961d-0620e1e51fa0,criticise.loan,available,5.25,6.25,high,low,9,namesilo,,,
+995c6244-d870-4c5c-961d-0620e1e51fa0,criticise.loan,available,5.25,6.25,medium,low,9,namesilo,,,
 2af0e994-22a1-4ebb-b338-86cd9dbcddfe,umbilical.loan,available,5.25,6.25,high,low,9,namesilo,,,11/09/2026 23:00
-369ef5da-100a-41be-a3c6-e368c098702d,gardiner.loan,available,5.25,6.25,high,low,8,namesilo,,,25/09/2026 06:17
+369ef5da-100a-41be-a3c6-e368c098702d,gardiner.loan,available,5.25,6.25,medium,low,8,namesilo,,,25/09/2026 06:17
 c4652bcf-ff48-4a2b-a061-b0f2ca171a56,negotiations.loan,available,5.25,6.25,medium,low,12,namesilo,,,17/09/2026 08:01
 8c955848-9998-43e5-9dab-a4745954ec15,minimally.loan,available,5.25,6.25,medium,low,9,namesilo,,,15/09/2026 15:02
 c44a5d08-3873-4e3c-bd4a-5723227873b7,unreached.loan,available,5.98,9.98,medium,low,9,namecheap,,,04/09/2026 18:48
@@ -632,7 +640,7 @@ e905415f-73de-4e67-8dac-f14d9a938b59,leo.loan,premium,650,84.5,high,medium,3,nam
 050492f1-7119-403e-9043-f3e256caca2f,titanic.loan,premium,437.5,62.5,high,low,7,name.com,,,11/09/2026 16:30
 c678c0eb-45f1-408c-bd91-8fbaee5020e2,referees.loan,available,5.25,6.25,medium,low,8,namesilo,,,20/09/2026 11:54
 7fa8ccf2-9d03-40ce-92bf-d4cd3c6a1970,mormon.loan,available,5.25,6.25,high,low,6,namesilo,,,25/08/2026 06:33
-d8272c0f-4196-4627-b068-40b22c0872e9,barbarossa.loan,premium,448,53.92,high,low,10,namesilo,,,22/09/2026 04:31
+d8272c0f-4196-4627-b068-40b22c0872e9,barbarossa.loan,premium,448,53.92,medium,low,10,namesilo,,,22/09/2026 04:31
 aa994e43-6f96-4548-95a2-69c047831d4d,administration.loan,available,5.25,6.25,high,low,14,namesilo,,,25/09/2026 12:34
 906700de-ec7e-47b6-8289-3dc962c320bc,foolish.loan,premium,448,53.92,high,low,7,namesilo,,,24/09/2026 11:44
 e27b904a-466e-4c09-be78-aa5559703c3a,bead.loan,premium,437.5,,high,low,4,name.com,,,
@@ -641,7 +649,7 @@ e27b904a-466e-4c09-be78-aa5559703c3a,bead.loan,premium,437.5,,high,low,4,name.co
 0e118aec-08cc-4f26-be89-d9badb12c6a9,botchy.loan,available,5.98,9.98,medium,low,6,namecheap,,,10/08/2026 20:53
 590b704b-48e5-44e6-9040-2262e16b859e,mono.loan,premium,625,81.25,high,medium,4,name.com,,,25/09/2026 21:33
 1a99ba9d-91ac-4c2c-8f0e-481a613874ba,arno.loan,premium,455,65,high,low,4,namecheap,,,20/09/2026 08:12
-fb10a29d-5527-4c4b-8e38-fb72ada3b7c9,ethnical.loan,available,5.25,6.25,high,low,8,namesilo,,,17/08/2026 13:49
+fb10a29d-5527-4c4b-8e38-fb72ada3b7c9,ethnical.loan,available,5.25,6.25,medium,low,8,namesilo,,,17/08/2026 13:49
 e032f815-66a6-462a-926e-53d7d0f0414e,adulation.loan,premium,455,65,medium,low,9,namecheap,,,17/09/2026 10:04
 9079078a-7d68-4c15-aa49-9bcc13a41bfa,powerful.loan,premium,1107,116,high,low,8,namesilo,,,23/09/2026 09:23
 cab13947-9b53-43e9-b07a-978fb8756dcc,simpleness.loan,available,5.25,6.25,medium,low,10,namesilo,,,24/09/2026 13:51
@@ -651,11 +659,11 @@ cab13947-9b53-43e9-b07a-978fb8756dcc,simpleness.loan,available,5.25,6.25,medium,
 692f1e6b-33f8-4df4-9ae5-1f1805d607cd,abrader.loan,available,5.25,6.25,medium,low,7,namesilo,,,16/09/2026 16:48
 def4e952-1d99-45ad-b1e5-dc0ba6cf3431,digitate.loan,available,5.25,6.25,medium,low,8,namesilo,,,14/08/2026 07:19
 35fa3fa1-a344-4119-b96a-c09a4d0fcf29,midnight.loan,premium,455,65,high,medium,8,namecheap,,,25/09/2026 09:24
-343dcb95-9f63-483b-86bd-652d10587655,underwater.loan,available,5.98,9.98,high,low,11,namecheap,,,16/09/2026 17:58
+343dcb95-9f63-483b-86bd-652d10587655,underwater.loan,available,5.98,9.98,medium,low,11,namecheap,,,16/09/2026 17:58
 a6ba3ea4-19d6-4a13-a5c2-db373d637be1,antitumor.loan,available,5.25,6.25,high,low,9,namesilo,,,22/09/2026 06:40
 6f633e66-deb2-4d66-8c52-6d1d5f5773f4,fixed.loan,premium,13000,130,high,low,5,namecheap,,,24/09/2026 19:10
 33cb6774-2bf9-47e6-bdc7-906137c0a83f,unworried.loan,available,5.98,9.98,medium,low,9,namecheap,,,11/08/2026 19:03
-81ba1789-bc22-4308-bfe2-0b8e88b89839,mallard.loan,premium,455,65,high,low,7,namecheap,,,19/09/2026 03:01
+81ba1789-bc22-4308-bfe2-0b8e88b89839,mallard.loan,premium,455,65,medium,low,7,namecheap,,,19/09/2026 03:01
 a65fe516-a108-4faa-9a97-68542beca732,confined.loan,available,5.98,9.98,medium,low,8,namecheap,,,11/08/2026 18:20
 857abeaf-2872-4afe-82ac-132e53d3d6a5,augeas.loan,available,5.25,6.25,medium,low,6,namesilo,,,21/09/2026 03:15
 15871bb1-e940-402f-94a6-63168bb21588,ameboid.loan,available,5.25,6.25,medium,low,7,namesilo,,,
@@ -673,9 +681,9 @@ b73008f8-3551-4a83-8dea-36b4fe2f6e12,snidely.loan,available,5.25,6.25,medium,low
 3bb501cf-2103-4b1b-9443-99ac3afe4fc7,beacon.loan,premium,130,32.5,high,medium,6,namecheap,,,22/09/2026 19:12
 d3d25c69-66b1-468d-afb3-4c6d0701ee94,habitually.loan,available,5.25,6.25,medium,low,10,namesilo,,,14/09/2026 22:45
 0f61ee53-2e26-4069-a1ff-5a9bd1515b92,tacky.loan,available,5.25,6.25,medium,low,5,namesilo,,,18/08/2026 06:41
-206299a7-fe1a-4065-b4b5-1fff57899a2b,subscribe.loan,premium,437.5,,high,low,9,name.com,,,
+206299a7-fe1a-4065-b4b5-1fff57899a2b,subscribe.loan,premium,455,65,high,low,9,namecheap,,,27/09/2026 22:05
 fb2af623-a687-4785-9da9-22325bd23317,elsie.loan,premium,455,65,high,low,5,namecheap,,,27/09/2026 07:34
-ee7d521a-9592-4028-8222-b26baebcb278,slight.loan,premium,116,29.5,high,low,6,namesilo,,,
+ee7d521a-9592-4028-8222-b26baebcb278,slight.loan,premium,103.7,26.08,high,low,6,spaceship,,,27/09/2026 22:32
 fe349ae0-f309-4483-9cdb-917ded0caf4d,vendors.loan,available,5.25,6.25,high,low,7,namesilo,,,20/09/2026 22:00
 31bf0ba9-b328-41f8-9df4-e36b640bfd92,grades.loan,premium,385,55,high,low,6,dynadot,,,27/09/2026 11:23
 6e0082e8-34e3-450e-84bf-2d1404ef95ac,nafud.loan,available,5.98,9.98,medium,low,5,namecheap,,,19/09/2026 00:44
@@ -686,7 +694,7 @@ a6531320-fd50-480f-ad4c-66792a939f04,stove.loan,premium,455,65,high,low,5,namech
 6a40569e-da2f-4376-8a58-25e1e7a16a28,clout.loan,premium,448,53.92,high,low,5,namesilo,,,23/09/2026 13:48
 a2f5d092-8402-45c3-b66b-0ed086ddcbf3,market.loan,premium,13000,130,high,medium,6,namecheap,,,19/09/2026 13:41
 3ead7017-f0f2-4ee3-be48-93f4b10a21c3,apostrophe.loan,premium,455,65,high,low,10,namecheap,,,19/09/2026 19:30
-5185bb46-ec37-4ebd-a739-e58de938ad16,disuse.loan,available,5.25,6.25,high,low,6,namesilo,,,24/09/2026 23:14
+5185bb46-ec37-4ebd-a739-e58de938ad16,disuse.loan,available,5.25,6.25,medium,low,6,namesilo,,,24/09/2026 23:14
 a8188adc-1ade-4d77-96e7-9b3db75844c5,banquette.loan,available,5.25,6.25,medium,low,9,namesilo,,,22/09/2026 03:08
 ef9277eb-16d7-4ec4-aaa4-9acf955cc5ca,numbers.loan,premium,1250,,high,low,7,name.com,,,
 21d059ae-359f-4e51-976c-d7ca3457b7b2,aweigh.loan,available,5.25,6.25,low,low,6,namesilo,,,07/08/2026 14:29
@@ -701,19 +709,19 @@ c5f9e6c2-75ee-41d0-a9cf-ce9251db0599,mcdonald.loan,available,5.25,6.25,high,low,
 ef12a30a-5532-4980-9948-6494fa318e12,populous.loan,premium,448,53.92,high,low,8,namesilo,,,08/09/2026 23:57
 387ad486-aa9e-4a64-bfa1-f72fa373330a,mired.loan,available,5.25,6.25,medium,low,5,namesilo,,,25/08/2026 01:04
 8ba4755b-86a1-4e20-8da2-4c7ae756bb57,bahai.loan,premium,437.5,62.5,high,low,5,name.com,,,08/08/2026 08:27
-67482232-a74f-4423-a6bd-561d6b3eb9a7,research.loan,premium,1107,116,high,medium,8,namesilo,,,25/09/2026 09:00
+67482232-a74f-4423-a6bd-561d6b3eb9a7,research.loan,premium,1107,116,high,medium,8,namesilo,,,28/09/2026 02:46
 ea87aebe-6556-4b49-a65a-39b72717e815,sestet.loan,available,5.25,6.25,medium,low,6,namesilo,,,
-a4f373fa-7024-4509-9fc3-de1840302aa9,aeration.loan,premium,448,53.92,high,low,8,namesilo,,,17/09/2026 12:46
-cb72c992-495b-4fcb-8709-3216ac9b0a1d,protrusive.loan,available,5.25,6.25,high,low,10,namesilo,,,09/09/2026 04:20
+a4f373fa-7024-4509-9fc3-de1840302aa9,aeration.loan,premium,448,53.92,medium,low,8,namesilo,,,17/09/2026 12:46
+cb72c992-495b-4fcb-8709-3216ac9b0a1d,protrusive.loan,available,5.25,6.25,medium,low,10,namesilo,,,09/09/2026 04:20
 5d5a6676-8356-4c32-8d15-85f11fbd4362,proportion.loan,premium,437.5,,high,low,10,name.com,,,
 20bc0e19-36b5-4902-8957-dd37adee868c,unsubtle.loan,available,5.25,6.25,medium,low,8,namesilo,,,12/09/2026 20:46
 b09cbb3b-8bb2-4383-8ab6-b01fce9af9f4,goods.loan,available,9.98,,high,low,5,namecheap,,,
 4613ea6a-5e8b-497a-920b-102f3322fc87,settle.loan,premium,1107,116,high,low,6,namesilo,,,25/09/2026 10:17
 2254f56a-d205-4a8f-9d2c-3db9250d6e13,benefit.loan,premium,3450,116,high,low,7,namesilo,,,23/09/2026 07:55
 23c62d66-7000-4f12-b31f-3a63e0816972,cauterize.loan,available,5.25,6.25,medium,low,9,namesilo,,,11/08/2026 14:34
-4111dd70-7041-49b4-ab11-7ef76329ca5a,nationally.loan,available,5.25,6.25,high,low,10,namesilo,,,03/09/2026 13:44
+4111dd70-7041-49b4-ab11-7ef76329ca5a,nationally.loan,available,5.25,6.25,medium,low,10,namesilo,,,03/09/2026 13:44
 bf782094-faa5-4d93-b951-499a2f46fac3,exiguous.loan,available,5.25,6.25,medium,low,8,namesilo,,,17/08/2026 17:18
-f4d30d66-fec7-4b01-a4cb-f4b1e0ae9aea,searched.loan,available,5.25,6.25,high,low,8,namesilo,,,18/09/2026 02:50
+f4d30d66-fec7-4b01-a4cb-f4b1e0ae9aea,searched.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 02:50
 dcafa975-e848-42b8-a50e-7f4fc0d4810c,giraffe.loan,premium,437.5,,high,low,7,name.com,,,
 be57715f-3e50-4767-b69f-c382b8619a7f,becquerel.loan,available,5.25,6.25,medium,low,9,namesilo,,,19/09/2026 15:23
 a996392d-4cb7-442d-8522-ed8b009819a3,hither.loan,available,5.25,6.25,medium,low,6,namesilo,,,15/09/2026 00:48
@@ -733,6 +741,7 @@ dfa00efa-73ad-4949-987a-023ca3ecf134,wrinkled.loan,available,5.25,6.25,medium,lo
 84023cfd-3ed6-475a-92e0-388c0d67b99d,addin.loan,available,5.98,9.98,high,low,6,namecheap,,,17/09/2026 06:37
 4fb07a4c-88f6-4e85-ac8f-746b4ce3acfd,campestral.loan,available,5.25,6.25,medium,low,10,namesilo,,,11/08/2026 16:05
 8f38d065-2296-4d9d-979e-19c362711a90,gavin.loan,premium,448,53.92,high,low,5,namesilo,,,26/09/2026 03:29
+723da1de-f635-446d-bab9-535e2185f2bc,ducks.loan,premium,448,53.92,medium,low,5,namesilo,,,27/09/2026 23:17
 add4e4b1-a3e5-413a-a37e-c9576f3d39da,outdated.loan,available,5.98,9.98,medium,low,8,namecheap,,,26/09/2026 03:15
 d66dc1ff-9897-4bce-80f8-7758ad0ce3c7,semirigid.loan,available,5.25,6.25,medium,low,9,namesilo,,,10/09/2026 03:19
 c1b09794-e8fb-467d-a8df-d8576d79f572,cheaply.loan,available,5.25,6.25,medium,low,7,namesilo,,,14/09/2026 06:37
@@ -740,7 +749,7 @@ c1b09794-e8fb-467d-a8df-d8576d79f572,cheaply.loan,available,5.25,6.25,medium,low
 10aa5e6f-fc22-4b8d-b04c-385e7f8eb91b,bacchante.loan,available,5.98,9.98,medium,low,9,namecheap,,,21/09/2026 13:59
 01d11776-f4d6-4a53-ba15-8b0708edc923,stressful.loan,available,5.25,6.25,medium,low,9,namesilo,,,03/09/2026 15:42
 0d2d96d6-07ad-4500-bb84-23ec45d4405d,ambivalent.loan,premium,437.5,62.5,medium,low,10,name.com,,,
-08d15561-adc9-4fa9-9bb2-9dc7311a711f,subtle.loan,premium,437.5,,high,low,6,name.com,,,
+08d15561-adc9-4fa9-9bb2-9dc7311a711f,subtle.loan,premium,455,65,high,low,6,namecheap,,,28/09/2026 01:48
 b8e7e7cd-9ba2-4ff5-abaa-3ce8b3db2754,preset.loan,available,5.25,6.25,high,medium,6,namesilo,,,09/09/2026 01:24
 25c590f1-5d0a-4c1a-9291-51c794440d89,dish.loan,premium,448,53.92,high,low,4,namesilo,,,19/09/2026 08:19
 5c6f1e24-2e12-4969-8ab4-d2c01f3a7830,untypical.loan,available,5.25,6.25,medium,low,9,namesilo,,,07/08/2026 16:10
@@ -762,20 +771,20 @@ cf8e96f4-883a-4f8b-a3b6-7bc2d124f274,fracas.loan,premium,448,53.92,medium,low,6,
 af64965a-bdb3-4fd2-8ff1-330e5e7d819a,instyle.loan,premium,448,53.92,high,low,8,namesilo,,,17/09/2026 05:05
 6371dab3-5720-452b-a844-e79fa890f1a4,swimwear.loan,available,5.98,9.98,high,low,8,namecheap,,,22/09/2026 13:39
 72cecbc0-b954-4eac-8660-49031bf5f65c,overactive.loan,available,5.25,6.25,medium,low,10,namesilo,,,21/08/2026 16:42
-6528fc51-b644-4f96-80d9-1cf13ac484ee,insinuate.loan,premium,437.5,62.5,high,low,9,name.com,,,22/08/2026 08:35
+6528fc51-b644-4f96-80d9-1cf13ac484ee,insinuate.loan,premium,437.5,62.5,medium,low,9,name.com,,,22/08/2026 08:35
 43854ef1-be07-46e2-9f57-a1f4ae734c45,patrol.loan,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 23:57
 870b059f-363a-4d7d-bd0c-f39b4fff2273,oscar.loan,premium,455,65,high,high,5,namecheap,,,16/09/2026 20:26
 0fc32ff0-d252-42b1-b993-9f70294e15be,milk.loan,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 05:39
 457b6167-2747-4720-ae4e-91ab4e4d79df,asymmetry.loan,premium,455,65,high,low,9,namecheap,,,20/09/2026 18:39
-5386d8ad-19e7-468d-9c16-ecf8dc497083,lapp.loan,premium,448,53.92,high,low,4,namesilo,,,19/09/2026 15:44
+5386d8ad-19e7-468d-9c16-ecf8dc497083,lapp.loan,premium,448,53.92,medium,low,4,namesilo,,,19/09/2026 15:44
 78fa2f80-f0da-4d32-b84c-5d90bb1d8fc6,erudite.loan,available,5.25,6.25,high,low,7,namesilo,,,17/08/2026 13:10
 eb10ead4-74ff-4026-9257-0ad7079bc7dc,aerophile.loan,available,5.25,6.25,medium,low,9,namesilo,,,17/09/2026 13:12
-bb3b9456-8292-4f56-8ef0-9a71d6ebf737,minus.loan,premium,625,81.25,high,low,5,name.com,,,25/08/2026 00:55
+bb3b9456-8292-4f56-8ef0-9a71d6ebf737,minus.loan,premium,625,81.25,medium,low,5,name.com,,,25/08/2026 00:55
 5eea2f96-c403-4736-b8bd-5b0d825548ee,bmr.loan,premium,650,84.5,high,low,3,namecheap,,,22/09/2026 09:49
 19642daa-9130-4756-826f-f2e989578779,count.loan,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 23:32
 d52c3b62-9410-4254-9666-53da9aabd66e,ageratina.loan,available,5.25,6.25,medium,low,9,namesilo,,,17/09/2026 17:21
 a7d69ca9-3ef8-4d75-be10-7aa64273dc88,gunner.loan,premium,448,53.92,high,low,6,namesilo,,,20/09/2026 11:48
-7c5e6e68-24ab-40fb-ba78-ec247503f6c6,peirce.loan,available,5.25,6.25,high,low,6,namesilo,,,23/09/2026 08:23
+7c5e6e68-24ab-40fb-ba78-ec247503f6c6,peirce.loan,available,5.25,6.25,medium,low,6,namesilo,,,23/09/2026 08:23
 b917b1b8-e33b-4c1f-93ef-8115fb0f090d,lived.loan,available,5.98,9.98,high,low,5,namecheap,,,25/09/2026 20:09
 213b1c17-53e6-47dd-8980-84361bf136d5,tannic.loan,available,5.25,6.25,medium,low,6,namesilo,,,11/09/2026 08:01
 c19134a3-6852-46bd-ad91-372a0d8c697e,buckram.loan,available,5.25,6.25,medium,low,7,namesilo,,,11/08/2026 07:31
@@ -824,6 +833,7 @@ fc793511-4194-4352-965f-196d7a425e8e,focally.loan,available,5.98,9.98,medium,low
 95c41d11-07b6-44f9-9fbe-0dc9fb4dee25,paranormal.loan,premium,437.5,62.5,high,low,10,name.com,,,17/08/2026 19:25
 45d3cbb2-b819-4ca0-a1ec-fb093c4ecb35,talent.loan,premium,437.5,,high,medium,6,name.com,,,
 8d19f99f-7eb5-4ed7-a8a6-c8f554916529,anglian.loan,available,5.25,6.25,high,low,7,namesilo,,,19/09/2026 06:48
+188018c2-be5f-4f2c-a8fd-ae21a0ec9713,duane.loan,available,4.32,5.35,medium,low,5,spaceship,,,27/09/2026 19:56
 937404ce-a10b-422a-b3af-d22a273b6065,dressy.loan,available,5.98,9.98,high,low,6,namecheap,,,14/08/2026 18:57
 eecf6fba-6be8-4069-b59c-fae47cb64eb4,electricians.loan,available,5.98,9.98,medium,low,12,namecheap,,,20/09/2026 20:08
 7b3f41a0-17e9-420d-acd3-d8f1920853aa,dentist.loan,premium,6250,,high,low,7,name.com,,,
@@ -854,8 +864,9 @@ f89c58f7-bd6d-45a5-861f-47becb8ab317,atrophy.loan,available,5.25,6.25,high,low,7
 b9613f00-9fea-40ef-9869-2e820e8b0f3d,spangly.loan,available,5.98,9.98,medium,low,7,namecheap,,,18/08/2026 21:20
 9d16136c-40f0-41da-a5d0-bf2defd920e3,asklepios.loan,premium,455,65,medium,low,9,namecheap,,,17/09/2026 13:21
 443e6095-28bd-410a-8d68-bcceb7085d40,potato.loan,premium,437.5,,high,low,6,name.com,,,
+2aea449b-9e31-4220-a709-c9e72e3db02e,instructor.loan,premium,448,53.92,high,low,10,namesilo,,,28/09/2026 02:10
 578f23db-63bd-4bd5-95ae-d2d6dd9f099d,pip.loan,premium,640,77.35,high,low,3,namesilo,,,13/09/2026 13:22
-e3fd26aa-3488-4083-a00c-984a51d3e87c,inheriting.loan,available,5.25,6.25,high,low,10,namesilo,,,22/08/2026 05:04
+e3fd26aa-3488-4083-a00c-984a51d3e87c,inheriting.loan,available,5.25,6.25,medium,low,10,namesilo,,,22/08/2026 05:04
 6cdae8e9-3392-47d3-97c2-1c0a5ada4242,nevus.loan,available,5.98,9.98,medium,low,5,namecheap,,,23/09/2026 21:15
 079f368b-5b54-4284-8bd0-9b33f29f66b3,yield.loan,premium,437.5,,high,low,5,name.com,,,
 3987c509-0e5f-4172-889f-12ae01f76843,cohen.loan,premium,130,32.5,high,low,5,namecheap,,,27/09/2026 03:21
@@ -874,6 +885,7 @@ da9659d6-b26e-4b67-ac6e-c93b88066ef0,dogwalking.loan,available,5.98,9.98,high,lo
 a58bb405-f7a1-4135-998d-3753f888b084,conformist.loan,available,5.98,9.98,medium,low,10,namecheap,,,12/08/2026 21:13
 f064da94-df58-4e4f-a658-13a09fa5b2d4,beefalo.loan,available,5.25,6.25,medium,low,7,namesilo,,,23/09/2026 01:04
 7d26acd4-e82b-4f4b-87f4-92d43f6112c8,nifty.loan,available,,,high,low,5,,,,
+e40d4c9d-fbf0-4256-9525-523326874e4e,association.loan,available,4.18,5.18,high,low,11,cloudflare,,,27/09/2026 21:32
 b44ace67-c9a8-4bbf-8c31-c81055012792,sharpe.loan,premium,448,53.92,high,low,6,namesilo,,,26/09/2026 03:16
 1c76eb54-a35c-4494-a95f-6e5fe31ea6a9,lot.loan,premium,650,84.5,high,low,3,namecheap,,,25/09/2026 20:36
 3265353f-bbc7-4427-bd16-1400fbf9e030,wannabe.loan,premium,437.5,62.5,medium,low,7,name.com,,,07/08/2026 05:17
@@ -890,24 +902,26 @@ ca55d942-04bf-4bdd-bd59-a442823ca67e,anorexia.loan,available,5.25,6.25,medium,lo
 6b719432-f4b1-4a3b-a396-87f1bccf2bba,orientated.loan,available,5.98,9.98,high,low,10,namecheap,,,04/09/2026 17:54
 dedd12e2-3459-4c19-86ca-4970288fadcf,grinder.loan,premium,437.5,62.5,medium,low,7,name.com,,,25/08/2026 03:40
 16278e68-7b4f-482b-b91d-9656fb37c55d,cluttered.loan,available,5.25,6.25,medium,low,9,namesilo,,,12/08/2026 13:12
-b136d3af-5767-4d37-b10a-abea5fc43ee8,solicit.loan,available,9.98,,high,low,7,namecheap,,,
+b136d3af-5767-4d37-b10a-abea5fc43ee8,solicit.loan,available,5.25,6.25,high,low,7,namesilo,,,27/09/2026 16:11
 85e84ca2-f6fd-4770-beb4-93b3130303c1,rehabs.loan,available,5.25,6.25,medium,low,6,namesilo,,,20/09/2026 09:43
 9a81dac4-b457-4c10-b0ef-49f4e8be7d6e,ruritanian.loan,available,5.98,9.98,medium,low,10,namecheap,,,09/09/2026 19:43
 fddfc328-d715-4dfe-a08a-a613a11da2c2,exocentric.loan,available,5.25,6.25,medium,low,10,namesilo,,,17/08/2026 17:21
-9fa9b776-cf13-4d60-9e1a-a18fe0d6103d,ccp.loan,premium,640,77.35,high,low,3,namesilo,,,26/09/2026 03:21
+9fa9b776-cf13-4d60-9e1a-a18fe0d6103d,ccp.loan,premium,640,77.35,medium,low,3,namesilo,,,26/09/2026 03:21
 58180e34-61ad-415d-b975-575a55fc3484,patent.loan,premium,3125,125,high,low,6,name.com,,,06/08/2026 05:19
 6c2d1803-3334-41ab-9bda-9474636d8a3b,friend.loan,premium,3125,,high,low,6,name.com,,,
 1f5e54fb-1e4a-4677-921e-ec29d32b92c5,deaf.loan,available,34.99,37.99,high,low,4,name.com,,,13/08/2026 19:42
 4668203b-590f-4d02-9351-809af9676994,tribute.loan,premium,437.5,,high,low,7,name.com,,,
 470af41f-e47d-418f-91b9-f058d9e35d32,eminently.loan,available,5.25,6.25,medium,low,9,namesilo,,,14/09/2026 15:19
 542fa156-8aa4-4a85-b03b-0425f52e775f,unloved.loan,premium,448,53.92,medium,low,7,namesilo,,,12/09/2026 15:10
+e13c557e-485a-445b-8a9c-5315ec16c824,doctrine.loan,premium,382.61,55.11,high,low,8,porkbun,,,28/09/2026 02:40
 71dbdeb4-1deb-45d4-89a4-cff07ad1ff92,snippet.loan,premium,437.5,,high,low,7,name.com,,,
-1e7ede91-dc78-49d0-a90e-ee8170c4672b,beggar.loan,premium,448,53.92,high,low,6,namesilo,,,23/09/2026 02:08
+1e7ede91-dc78-49d0-a90e-ee8170c4672b,beggar.loan,premium,448,53.92,medium,low,6,namesilo,,,23/09/2026 02:08
 dd4d80b3-122a-48ae-882c-3c0554a3d252,touching.loan,premium,437.5,62.5,high,low,8,name.com,,,
 d537475e-6a7c-4591-8403-666d8112dc20,phantasm.loan,premium,455,65,high,low,8,namecheap,,,08/09/2026 18:36
 176d67b6-7afb-4b26-b1fb-103ef0591679,collars.loan,available,5.25,6.25,medium,low,7,namesilo,,,20/09/2026 09:10
 74640f16-efed-4f34-8efc-e2f9aeb139aa,nearer.loan,available,5.25,6.25,medium,low,6,namesilo,,,
-a634744d-3366-4eec-8fa4-424854e4d0cd,degenerate.loan,premium,437.5,62.5,high,low,10,name.com,,,13/08/2026 20:16
+7b263b0e-c590-4014-b870-efd55fe7c579,cas.loan,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 23:14
+a634744d-3366-4eec-8fa4-424854e4d0cd,degenerate.loan,premium,437.5,62.5,medium,low,10,name.com,,,13/08/2026 20:16
 58e7dd47-c9f1-47d6-b40c-49cb01200ec7,crane.loan,premium,130,32.5,high,low,5,namecheap,,,24/09/2026 19:02
 410542e8-0692-493e-ad89-69bbda0fb734,gibe.loan,premium,448,53.92,medium,low,4,namesilo,,,22/09/2026 04:17
 1b3f0910-ed0a-4ae8-b602-dc6c3515eb58,uncial.loan,available,5.25,6.25,medium,low,6,namesilo,,,12/09/2026 05:10
@@ -935,7 +949,7 @@ b0713431-502f-4579-869a-f96b78920ddf,accrued.loan,available,5.25,6.25,high,low,7
 09c8c054-f713-4fb1-b5e7-8ca094875342,fugal.loan,available,5.25,6.25,medium,low,5,namesilo,,,18/08/2026 17:38
 386c7fc5-7e75-44c7-9e7a-2c41b5374f60,reticular.loan,available,5.25,6.25,medium,low,9,namesilo,,,09/09/2026 15:34
 b543f13d-be72-4a81-8f9c-761a2de76905,laboratory.loan,available,5.25,6.25,high,low,10,namesilo,,,24/09/2026 03:29
-9576a7b6-e53d-4f07-b034-713e7648c353,childless.loan,available,5.25,6.25,high,low,9,namesilo,,,12/08/2026 05:10
+9576a7b6-e53d-4f07-b034-713e7648c353,childless.loan,available,5.25,6.25,medium,low,9,namesilo,,,12/08/2026 05:10
 b2bab45d-65a5-4f07-852e-6bff50a92061,footling.loan,available,5.25,6.25,medium,low,8,namesilo,,,18/08/2026 03:30
 39e31345-7faf-4bf3-841f-9252ffc99c1a,bumbling.loan,premium,437.5,62.5,medium,low,8,name.com,,,11/08/2026 09:34
 d8ac2f86-1ba2-414a-9d28-471b347e1a37,jittery.loan,available,5.25,6.25,medium,low,7,namesilo,,,15/08/2026 08:41
@@ -946,7 +960,7 @@ c5296689-066d-468b-b13a-3330b0228564,connective.loan,available,5.25,6.25,high,lo
 20bb9ed9-658f-4b0d-8828-5f031de181f4,orally.loan,available,5.98,9.98,medium,low,6,namecheap,,,15/09/2026 18:11
 2a509896-4fad-4697-9fc4-5aea76b639c7,devious.loan,premium,437.5,62.5,medium,low,7,name.com,,,14/08/2026 05:10
 e1efaf67-c567-4562-b491-50b34d3aafae,painted.loan,available,5.25,6.25,high,low,7,namesilo,,,25/09/2026 23:19
-26c515de-fdce-496f-ac16-db328da3a976,lined.loan,available,5.25,6.25,high,low,5,namesilo,,,23/08/2026 14:17
+26c515de-fdce-496f-ac16-db328da3a976,lined.loan,available,5.25,6.25,medium,low,5,namesilo,,,23/08/2026 14:17
 5fc670f5-80ca-4765-8afa-54118e2d2970,dimmed.loan,available,5.25,6.25,medium,low,6,namesilo,,,14/08/2026 08:08
 da7584b9-b765-40b4-baa7-f1328935bcb0,rattling.loan,available,5.25,6.25,high,low,8,namesilo,,,11/08/2026 04:30
 4d83f42b-08a5-44ca-b5f4-4aeffbae9fe7,volleyball.loan,available,5.25,6.25,high,low,10,namesilo,,,
@@ -962,7 +976,7 @@ a9ece0f3-a78f-400f-a985-1221ddd23603,poetry.loan,premium,448,53.92,high,low,6,na
 c3da0b59-9ea5-4af9-9ee2-48a5079d66f9,wings.loan,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 11:03
 fa9481cb-4657-4d7b-846a-c86e866f1a56,apoapsis.loan,available,5.98,9.98,medium,low,8,namecheap,,,19/09/2026 18:07
 0b609fec-4674-460c-b45c-9c51a9d5701a,wounds.loan,premium,455,65,medium,low,6,namecheap,,,25/09/2026 19:23
-9dfcd6b2-00ee-4172-8b07-6b0e3ff1d8f6,handiness.loan,available,5.25,6.25,high,low,9,namesilo,,,16/09/2026 22:18
+9dfcd6b2-00ee-4172-8b07-6b0e3ff1d8f6,handiness.loan,available,5.25,6.25,medium,low,9,namesilo,,,16/09/2026 22:18
 ca2dbb5f-2955-427c-b50c-f735bf5f92fe,cluster.loan,premium,448,53.92,high,low,7,namesilo,,,24/09/2026 11:12
 42756fcf-fbbc-49f5-8825-54c7842b6703,jailed.loan,available,5.25,6.25,medium,low,6,namesilo,,,19/09/2026 04:16
 688cd32a-bdcb-4b17-926f-4f42b0620d74,rossi.loan,premium,448,53.92,high,low,5,namesilo,,,27/09/2026 01:41
@@ -972,8 +986,9 @@ af98ae87-1353-45e5-8c24-85bd1974610a,ramjet.loan,premium,455,65,medium,low,6,nam
 a39f1ef7-e191-40a1-bf02-03d6cecbc733,erroneous.loan,available,5.25,6.25,medium,low,9,namesilo,,,17/08/2026 12:56
 88a1bb34-080c-4d09-a274-4d4d3f1cfb2c,briary.loan,available,5.25,6.25,medium,low,6,namesilo,,,08/08/2026 17:02
 837baed9-243a-466f-986d-aa364a04611d,attending.loan,available,5.98,9.98,high,low,9,namecheap,,,21/09/2026 01:25
+66190612-3f00-4934-bdb7-929a3acf8d9d,herman.loan,premium,,,high,low,6,,,,28/09/2026 02:07
 0a717dc3-3286-436e-9ad7-25148b849069,pestering.loan,available,5.25,6.25,medium,low,9,namesilo,,,
-8bcac654-66b4-41fc-8b31-8783e85347b6,katabatic.loan,premium,437.5,62.5,high,low,9,name.com,,,11/08/2026 20:41
+8bcac654-66b4-41fc-8b31-8783e85347b6,katabatic.loan,premium,437.5,62.5,medium,low,9,name.com,,,11/08/2026 20:41
 09bfa367-8588-4356-a516-9b534d950e73,goldberg.loan,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 06:35
 de40b06f-fd4a-4b1c-b362-c9fdc0d6fa53,spacey.loan,available,5.25,6.25,high,medium,6,namesilo,,,10/09/2026 15:06
 ca6972c0-52de-48a5-a5ff-f6091533eaeb,bearskin.loan,available,34.99,37.99,high,low,8,name.com,,,22/09/2026 21:25
@@ -984,18 +999,3 @@ a11beaa3-af12-4d15-846c-4ac4c16167f9,assam.loan,available,5.98,9.98,high,low,5,n
 20fde7db-5f27-4683-8c7f-26b69972d9ca,robed.loan,available,5.25,6.25,medium,low,5,namesilo,,,06/08/2026 05:03
 8878687c-5348-4365-9565-1fcaeb85cd64,inflexibly.loan,available,5.25,6.25,medium,low,10,namesilo,,,15/09/2026 08:16
 9622ea83-5905-4260-a918-f569f94b4ac7,linelike.loan,available,5.25,6.25,medium,low,8,namesilo,,,23/08/2026 15:03
-f576cbd5-f0c1-4aa5-96ec-e164915212a5,lamppost.loan,available,5.25,6.25,high,low,8,namesilo,,,
-0d589140-2e6b-45bd-9e3d-524a09d40c9c,biting.loan,available,5.25,6.25,high,low,6,namesilo,,,08/08/2026 16:41
-27bb76e6-c481-47fa-868d-609f7108f586,perceptual.loan,available,5.25,6.25,high,low,10,namesilo,,,08/09/2026 16:15
-2b6f5ec7-ded3-4bd1-8286-2ea476c3c174,deposits.loan,available,5.25,6.25,high,low,8,namesilo,,,
-d65778aa-d9d9-468d-a579-b7385f858125,distaste.loan,available,5.98,9.98,medium,low,8,namecheap,,,19/09/2026 14:55
-3ec7a19a-fc99-46d9-baa4-9bcc787a5c73,rousseauan.loan,available,5.98,9.98,high,medium,10,namecheap,,,09/09/2026 19:09
-b5a4ca25-77ae-4092-bee5-84441f65992f,blab.loan,premium,448,53.92,high,low,4,namesilo,,,23/09/2026 23:33
-f10d9b63-bc08-4a53-b6ee-c56764443788,scupper.loan,available,34.99,37.99,medium,low,7,name.com,,,18/09/2026 17:30
-49404db3-1196-4007-ac57-60a762b4ba60,additions.loan,premium,448,53.92,medium,low,9,namesilo,,,18/09/2026 16:32
-0fee5f58-78df-47bb-a238-02b0e68aec3e,issues.loan,premium,455,65,medium,low,6,namecheap,,,25/09/2026 21:11
-4863af6b-497d-4497-b5e1-7cea33721d8c,oceangoing.loan,available,5.25,6.25,medium,low,10,namesilo,,,04/09/2026 00:20
-444888e5-aa28-4b36-8d87-b5dd4b2a5158,diocese.loan,available,5.25,6.25,high,low,7,namesilo,,,23/09/2026 21:58
-c59e0e05-094d-4bd6-b6a5-388602522ba4,achiever.loan,premium,437.5,,high,low,8,name.com,,,
-49f3faa8-d7a6-47db-b540-1591cd6795a5,paige.loan,available,5.25,6.25,high,low,5,namesilo,,,27/09/2026 04:38
-465e51bc-a846-42c1-8851-4613f0f05606,antipodes.loan,premium,448,53.92,medium,low,9,namesilo,,,19/09/2026 14:59
