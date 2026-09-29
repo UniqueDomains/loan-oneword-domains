@@ -1,10 +1,10 @@
-# Available .LOAN One-Word Domains (25,454)
+# Available .LOAN One-Word Domains (27,468)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C454%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C468%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .loan one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,454 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,468 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,454 domains · **Median ask:** $387.87 · **High-demand under $2,500:** 53
+**Public extract:** 1,000 rows · **Live catalog:** 27,468 domains · **Median ask:** $384.19 · **High-demand under $2,500:** 59
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/loan`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| client.loan    | premium   | $1,107    | $116          | high           | low    | 6      | namesilo  |
-| sunrise.loan   | premium   | $116      | $29.50        | high           | low    | 7      | namesilo  |
-| radio.loan     | premium   | $640      | $77.35        | high           | medium | 5      | namesilo  |
-| weather.loan   | premium   | $448      | $53.92        | high           | medium | 7      | namesilo  |
-| fresh.loan     | premium   | $13,800   | $116          | high           | medium | 5      | namesilo  |
-| marketing.loan | premium   | $116      | $29.50        | high           | medium | 9      | namesilo  |
-| roast.loan     | premium   | $448      | $53.92        | high           | low    | 5      | namesilo  |
-| computing.loan | available | $5.25     | $6.25         | high           | low    | 9      | namesilo  |
-| prepared.loan  | premium   | $448      | $53.92        | high           | low    | 8      | namesilo  |
-| color.loan     | premium   | $455      | $65           | high           | low    | 5      | namecheap |
-| tenth.loan     | available | $5.25     | $6.25         | high           | low    | 5      | namesilo  |
-| kicks.loan     | premium   | $448      | $53.92        | high           | low    | 5      | namesilo  |
-| ascent.loan    | premium   | $448      | $53.92        | high           | low    | 6      | namesilo  |
-| form.loan      | premium   | $116      | $29.50        | high           | medium | 4      | namesilo  |
-| mature.loan    | premium   | $650      | $84.50        | high           | low    | 6      | namecheap |
-| forth.loan     | available | $5.25     | $6.25         | high           | low    | 5      | namesilo  |
-| machinery.loan | premium   | $640      | $77.35        | high           | low    | 9      | namesilo  |
-| grey.loan      | premium   | $448      | $53.92        | high           | low    | 4      | namesilo  |
-| once.loan      | premium   | $455      | $65           | high           | low    | 4      | namecheap |
-| silver.loan    | premium   | $1,107    | $116          | high           | low    | 6      | namesilo  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| anne.loan | available | $5.98     | $9.98         | high           | low    | 4      | namecheap |
+| abo.loan  | premium   | $625      | $81.25        | high           | low    | 3      | name.com  |
+| clxx.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| acl.loan  | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship |
+| cxxv.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| ann.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| darn.loan | available | $34.99    | $37.99        | high           | low    | 4      | name.com  |
+| awl.loan  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo  |
+| dslr.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| bja.loan  | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo  |
+| gamy.loan | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap |
+| bmr.loan  | premium   | $650      | $84.50        | high           | low    | 3      | namecheap |
+| loos.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| ccp.loan  | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo  |
+| quit.loan | available | $5.25     | $6.25         | high           | low    | 4      | namesilo  |
+| cpc.loan  | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship |
+| rimy.loan | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo  |
+| cry.loan  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| sake.loan | available | $5.98     | $9.98         | high           | low    | 4      | namecheap |
+| cub.loan  | premium   | $650      | $84.50        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,454 live domains                        |
+| 1,000-row public sample | 27,468 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 53 high-demand names under $2,500          |
+| Basic exported fields   | 59 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOAN One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
